@@ -25,18 +25,6 @@ query_gbif <- function(taxon_keys, lon_limits, lat_limits, verbose = FALSE,
     stop("GBIF queries require the dplyr library")
   }
   
-  # iNaturalist
-  # Lat: 31.769138
-  # Lon: -106.443055
-
-  # GBIF
-  # Lat: 31.769138 
-  # Lon: -106.443055
-  
-  # Google
-  # Lat: 31.769022
-  # Lon: -106.443081
-  
   # Count number of observations in the rectangle, as pagination might be 
   # necessary; actually performs one search per taxonKey value
   gbif_count <- rgbif::occ_search(taxonKey = taxon_keys,
@@ -56,8 +44,10 @@ query_gbif <- function(taxon_keys, lon_limits, lat_limits, verbose = FALSE,
       start <- 0
       while(start <= taxon_count) {
         if (verbose) {
-          message(paste0("Downloading ", start, "-", (start+300), " of ", 
-                         taxon_count, " for ", taxon_key))
+          #TODO: Could do better job with numbers (start at +1, check for min(start+300, taxon_count))
+          message(paste0("Downloading ", (start + 1), "-", 
+                         min((start+300), taxon_count), " of ", 
+                         taxon_count, " for taxon key ", taxon_key))
         }
         gbif_obs <- rgbif::occ_search(taxonKey = taxon_key,
                                       decimalLongitude = paste(lon_limits[1:2],

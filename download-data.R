@@ -13,7 +13,7 @@ source(file = "functions/query_gbif.R")
 gardens <- read.csv(file = "data/gardens.csv")
 
 # Indicate whether or not to overwrite data files that already exist
-overwrite <- FALSE
+overwrite <- TRUE
 
 # Download data for each garden, then for each city
 
@@ -107,7 +107,7 @@ for (city_state in city_state_string) {
     # city_obs that are within the city polygon
     points_within <- sf::st_within(x = city_obs_sf, y = city_sf) %>% lengths > 0
     city_obs <- city_obs[points_within, ]
-    write.csv(x = garden_obs,
+    write.csv(x = city_obs,
               file = city_file,
               row.names = FALSE)
   }

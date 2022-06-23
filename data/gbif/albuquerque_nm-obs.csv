@@ -1,1 +1,848 @@
-""
+"decimalLatitude","decimalLongitude","individualCount","family","species","year","month","day","datasetName","gbifID","lifeStage"
+35.120399,-106.486886,NA,"Hesperiidae","Erynnis telemachus",2022,3,28,"iNaturalist research-grade observations","3759114240",NA
+35.120363,-106.486277,NA,"Hesperiidae","Erynnis brizo",2022,3,27,"iNaturalist research-grade observations","3759155178",NA
+35.085339,-106.623,NA,"Hesperiidae","Erynnis funeralis",2022,4,21,"iNaturalist research-grade observations","3764364545",NA
+35.069834,-106.602353,NA,"Hesperiidae","Erynnis funeralis",2022,5,8,"iNaturalist research-grade observations","3773315647",NA
+35.135773,-106.481681,NA,"Hesperiidae","Epargyreus clarus",2022,5,1,"iNaturalist research-grade observations","3773486942",NA
+35.131193,-106.483879,NA,"Hesperiidae","Hesperia pahaska",2022,5,26,"iNaturalist research-grade observations","3802447075",NA
+35.136036,-106.481995,NA,"Hesperiidae","Erynnis brizo",2021,4,19,"iNaturalist research-grade observations","3455356088",NA
+35.128647,-106.548514,NA,"Hesperiidae",NA,2021,5,24,"iNaturalist research-grade observations","3455784031","Adult"
+35.126354,-106.501298,NA,"Hesperiidae",NA,2021,6,22,"iNaturalist research-grade observations","3455445490",NA
+35.117355,-106.568785,NA,"Hesperiidae",NA,2021,6,18,"iNaturalist research-grade observations","3455909685",NA
+35.053089,-106.496684,NA,"Hesperiidae","Hylephila phyleus",2021,7,29,"iNaturalist research-grade observations","3384609920","Adult"
+35.147793,-106.537981,NA,"Hesperiidae","Hylephila phyleus",2021,8,25,"iNaturalist research-grade observations","3343996926",NA
+35.082161,-106.6238,NA,"Hesperiidae","Hylephila phyleus",2021,8,24,"iNaturalist research-grade observations","3344080783",NA
+35.084386,-106.650422,NA,"Hesperiidae","Hylephila phyleus",2021,8,12,"iNaturalist research-grade observations","3355638097",NA
+35.131092,-106.681258,NA,"Hesperiidae",NA,2021,8,1,"iNaturalist research-grade observations","3384458024",NA
+35.107608,-106.552751,NA,"Hesperiidae","Hylephila phyleus",2021,8,15,"iNaturalist research-grade observations","3398646751",NA
+35.148002,-106.508098,NA,"Hesperiidae","Hylephila phyleus",2021,9,26,"iNaturalist research-grade observations","3384092514",NA
+35.095897,-106.684075,NA,"Hesperiidae","Ancyloxypha arene",2021,9,23,"iNaturalist research-grade observations","3384102982",NA
+35.1357,-106.52458,NA,"Hesperiidae","Hylephila phyleus",2021,9,29,"iNaturalist research-grade observations","3384120717",NA
+35.128897,-106.686018,NA,"Hesperiidae","Hylephila phyleus",2021,9,25,"iNaturalist research-grade observations","3385122408",NA
+35.080601,-106.671729,NA,"Hesperiidae","Erynnis funeralis",2021,9,10,"iNaturalist research-grade observations","3455486754",NA
+35.096167,-106.476518,NA,"Hesperiidae","Hesperia pahaska",2021,9,25,"iNaturalist research-grade observations","3456209063",NA
+35.09916,-106.611763,NA,"Hesperiidae","Hylephila phyleus",2021,10,10,"iNaturalist research-grade observations","3391299897",NA
+35.129721,-106.684476,NA,"Hesperiidae",NA,2021,10,10,"iNaturalist research-grade observations","3391351905",NA
+35.081439,-106.623688,NA,"Hesperiidae","Hylephila phyleus",2021,10,9,"iNaturalist research-grade observations","3391361824",NA
+35.085521,-106.672817,NA,"Hesperiidae","Hylephila phyleus",2021,10,7,"iNaturalist research-grade observations","3391416649",NA
+35.1232,-106.49754,NA,"Hesperiidae","Erynnis funeralis",2021,10,11,"iNaturalist research-grade observations","3391493001",NA
+35.081464,-106.623725,NA,"Hesperiidae","Hylephila phyleus",2021,10,8,"iNaturalist research-grade observations","3391710645",NA
+35.192571,-106.741604,NA,"Hesperiidae","Hylephila phyleus",2021,10,6,"iNaturalist research-grade observations","3391711175","Adult"
+35.136033,-106.521722,NA,"Hesperiidae","Hylephila phyleus",2021,10,15,"iNaturalist research-grade observations","3398750039",NA
+35.104659,-106.620327,NA,"Hesperiidae","Hylephila phyleus",2021,10,18,"iNaturalist research-grade observations","3398817414",NA
+35.081453,-106.623733,NA,"Hesperiidae","Hylephila phyleus",2021,10,19,"iNaturalist research-grade observations","3398837515",NA
+35.081445,-106.623612,NA,"Hesperiidae","Hylephila phyleus",2021,10,4,"iNaturalist research-grade observations","3399117876",NA
+35.084505,-106.497981,NA,"Hesperiidae","Hylephila phyleus",2021,10,17,"iNaturalist research-grade observations","3399208286",NA
+35.096832,-106.620819,NA,"Hesperiidae","Hylephila phyleus",2021,10,22,"iNaturalist research-grade observations","3399352794",NA
+35.100728,-106.487708,NA,"Hesperiidae",NA,2021,10,20,"iNaturalist research-grade observations","3399385600",NA
+35.135108,-106.527847,NA,"Hesperiidae",NA,2021,10,29,"iNaturalist research-grade observations","3407913713",NA
+35.1509,-106.48461,NA,"Hesperiidae","Hylephila phyleus",2021,10,22,"iNaturalist research-grade observations","3407920006",NA
+35.130475,-106.682845,2,"Hesperiidae","Pyrgus communis",2021,10,2,"eButterfly","3427481955",NA
+35.10468,-106.620367,1,"Hesperiidae","Hylephila phyleus",2021,10,18,"eButterfly","3427481971",NA
+35.130475,-106.682845,1,"Hesperiidae","Hylephila phyleus",2021,10,2,"eButterfly","3427497096",NA
+35.099084,-106.471756,NA,"Hesperiidae","Copaeodes aurantiaca",2021,10,14,"iNaturalist research-grade observations","3456127658",NA
+35.128107,-106.686036,NA,"Hesperiidae","Ancyloxypha arene",2021,10,10,"iNaturalist research-grade observations","3456677771",NA
+35.127695,-106.686183,NA,"Hesperiidae","Ancyloxypha arene",2021,10,3,"iNaturalist research-grade observations","3456869349",NA
+35.129698,-106.684875,NA,"Hesperiidae",NA,2021,10,3,"iNaturalist research-grade observations","3465943559",NA
+35.086051,-106.622867,NA,"Hesperiidae","Hylephila phyleus",2021,11,1,"iNaturalist research-grade observations","3408228990",NA
+35.119646,-106.65719,NA,"Hesperiidae",NA,2021,11,5,"iNaturalist research-grade observations","3415360124",NA
+35.141819,-106.666516,1,"Hesperiidae","Poanes taxiles",2020,6,25,"eButterfly","3427470916",NA
+35.120996,-106.59168,NA,"Hesperiidae","Hylephila phyleus",2020,8,12,"iNaturalist research-grade observations","2851266589",NA
+35.130025,-106.605624,NA,"Hesperiidae","Hylephila phyleus",2020,10,6,"iNaturalist research-grade observations","2883197874","Adult"
+35.082377,-106.619422,NA,"Hesperiidae","Hylephila phyleus",2020,10,14,"iNaturalist research-grade observations","2898517250",NA
+35.187465,-106.69148,NA,"Hesperiidae",NA,2019,10,16,"iNaturalist research-grade observations","3468734141",NA
+35.186711,-106.691631,NA,"Hesperiidae",NA,2019,10,16,"iNaturalist research-grade observations","3468886204",NA
+35.135321,-106.775286,NA,"Hesperiidae",NA,2019,11,2,"iNaturalist research-grade observations","3469049186",NA
+35.111367,-106.65985,NA,"Hesperiidae","Hylephila phyleus",2018,8,2,"iNaturalist research-grade observations","2823113329",NA
+35.151977,-106.551994,NA,"Hesperiidae","Hylephila phyleus",2018,9,14,"iNaturalist research-grade observations","2013727577",NA
+35.119611,-106.65747,NA,"Hesperiidae","Hylephila phyleus",2018,10,8,"iNaturalist research-grade observations","1920822152",NA
+35.092796,-106.681582,NA,"Hesperiidae","Hylephila phyleus",2018,10,21,"iNaturalist research-grade observations","1932334656",NA
+35.099722,-106.47166,1,"Hesperiidae","Pyrgus communis",2017,4,8,"eButterfly","3397636357",NA
+35.099722,-106.47166,2,"Hesperiidae","Zestusa dorus",2017,4,8,"eButterfly","3397669349",NA
+35.100905,-106.755292,NA,"Hesperiidae","Hylephila phyleus",2017,9,24,"iNaturalist research-grade observations","1802709888",NA
+35.093301,-106.679551,NA,"Hesperiidae",NA,2016,7,2,"iNaturalist research-grade observations","1453280268",NA
+35.119461,-106.65736,NA,"Hesperiidae","Hylephila phyleus",2016,10,14,"iNaturalist research-grade observations","1880502141",NA
+35.077626,-106.663066,NA,"Hesperiidae","Hylephila phyleus",2014,8,15,"iNaturalist research-grade observations","2563489215",NA
+35.130017,-106.684155,1,"Hesperiidae","Pyrgus communis",2014,8,23,"eButterfly","3397598449",NA
+35.09895,-106.479642,1,"Hesperiidae","Erynnis funeralis",2013,8,24,"eButterfly","3397663359",NA
+35.143459,-106.657999,1,"Hesperiidae","Hylephila phyleus",2011,10,14,"eButterfly","3397521758",NA
+35.103875,-106.484425,NA,"Lycaenidae","Sandia mcfarlandi",2022,3,15,"iNaturalist research-grade observations","3742997134","Adult"
+35.103875,-106.484425,NA,"Lycaenidae","Sandia mcfarlandi",2022,3,15,"iNaturalist research-grade observations","3743004167",NA
+35.103875,-106.484425,NA,"Lycaenidae","Sandia mcfarlandi",2022,3,15,"iNaturalist research-grade observations","3743033183",NA
+35.103875,-106.484425,NA,"Lycaenidae","Sandia mcfarlandi",2022,3,15,"iNaturalist research-grade observations","3743051229",NA
+35.103875,-106.484425,NA,"Lycaenidae","Sandia mcfarlandi",2022,3,15,"iNaturalist research-grade observations","3743070118",NA
+35.103875,-106.484425,NA,"Lycaenidae","Sandia mcfarlandi",2022,3,15,"iNaturalist research-grade observations","3743167658",NA
+35.103875,-106.484425,NA,"Lycaenidae","Sandia mcfarlandi",2022,3,15,"iNaturalist research-grade observations","3743168794",NA
+35.112977,-106.480585,NA,"Lycaenidae","Sandia mcfarlandi",2022,3,13,"iNaturalist research-grade observations","3743294781",NA
+35.097744,-106.481581,NA,"Lycaenidae","Sandia mcfarlandi",2022,3,20,"iNaturalist research-grade observations","3747046006",NA
+35.103456,-106.485096,NA,"Lycaenidae","Sandia mcfarlandi",2022,3,19,"iNaturalist research-grade observations","3747211735",NA
+35.103456,-106.485096,NA,"Lycaenidae","Sandia mcfarlandi",2022,3,19,"iNaturalist research-grade observations","3747266618",NA
+35.120413,-106.486999,NA,"Lycaenidae","Sandia mcfarlandi",2022,3,27,"iNaturalist research-grade observations","3759100134",NA
+35.12041,-106.486844,NA,"Lycaenidae","Strymon melinus",2022,3,28,"iNaturalist research-grade observations","3759101237",NA
+35.10041,-106.476649,NA,"Lycaenidae","Sandia mcfarlandi",2022,3,25,"iNaturalist research-grade observations","3759159970",NA
+35.104028,-106.484679,NA,"Lycaenidae","Sandia mcfarlandi",2022,3,26,"iNaturalist research-grade observations","3759205033",NA
+35.047695,-106.480449,NA,"Lycaenidae","Sandia mcfarlandi",2022,3,26,"iNaturalist research-grade observations","3759566007",NA
+35.104028,-106.484679,NA,"Lycaenidae","Sandia mcfarlandi",2022,3,26,"iNaturalist research-grade observations","3759599043",NA
+35.046956,-106.481434,NA,"Lycaenidae","Sandia mcfarlandi",2022,3,26,"iNaturalist research-grade observations","3759647007",NA
+35.104028,-106.484679,NA,"Lycaenidae","Sandia mcfarlandi",2022,3,26,"iNaturalist research-grade observations","3759840075",NA
+35.104028,-106.484679,NA,"Lycaenidae","Sandia mcfarlandi",2022,3,26,"iNaturalist research-grade observations","3759866016",NA
+35.101143,-106.483393,NA,"Lycaenidae","Sandia mcfarlandi",2022,4,2,"iNaturalist research-grade observations","3759371693",NA
+35.137345,-106.480433,NA,"Lycaenidae","Sandia mcfarlandi",2022,4,2,"iNaturalist research-grade observations","3759634713",NA
+35.081019,-106.482503,NA,"Lycaenidae","Sandia mcfarlandi",2022,4,21,"iNaturalist research-grade observations","3759936703",NA
+35.045663,-106.482029,NA,"Lycaenidae","Sandia mcfarlandi",2022,4,7,"iNaturalist research-grade observations","3760310169",NA
+35.09577,-106.614158,NA,"Lycaenidae","Strymon melinus",2022,4,30,"iNaturalist research-grade observations","3772755950",NA
+35.135773,-106.481681,NA,"Lycaenidae","Sandia mcfarlandi",2022,5,1,"iNaturalist research-grade observations","3772475917",NA
+35.135773,-106.481681,NA,"Lycaenidae","Celastrina ladon",2022,5,1,"iNaturalist research-grade observations","3772528924",NA
+35.135773,-106.481681,NA,"Lycaenidae","Mitoura gryneus",2022,5,1,"iNaturalist research-grade observations","3772531021",NA
+35.135971,-106.48192,NA,"Lycaenidae","Leptotes marina",2022,5,2,"iNaturalist research-grade observations","3772545870",NA
+35.146066,-106.510147,NA,"Lycaenidae","Strymon melinus",2022,5,2,"iNaturalist research-grade observations","3772913636",NA
+35.079156,-106.624925,NA,"Lycaenidae","Leptotes marina",2022,5,2,"iNaturalist research-grade observations","3773072087",NA
+35.079219,-106.625095,NA,"Lycaenidae","Leptotes marina",2022,5,2,"iNaturalist research-grade observations","3773224078",NA
+35.136377,-106.480727,NA,"Lycaenidae","Echinargus isola",2022,5,9,"iNaturalist research-grade observations","3773409748",NA
+35.08407,-106.62227,NA,"Lycaenidae","Leptotes marina",2022,5,2,"iNaturalist research-grade observations","3773507786",NA
+35.135773,-106.481681,NA,"Lycaenidae","Celastrina ladon",2022,5,1,"iNaturalist research-grade observations","3773573407",NA
+35.135773,-106.481681,NA,"Lycaenidae","Callophrys spinetorum",2022,5,1,"iNaturalist research-grade observations","3773711072",NA
+35.082875,-106.619583,NA,"Lycaenidae","Strymon melinus",2022,5,9,"iNaturalist research-grade observations","3773817021",NA
+35.093175,-106.518788,NA,"Lycaenidae","Echinargus isola",2022,5,15,"iNaturalist research-grade observations","3784655007",NA
+35.136807,-106.480848,NA,"Lycaenidae","Strymon melinus",2022,5,16,"iNaturalist research-grade observations","3785014860",NA
+35.137587,-106.480897,NA,"Lycaenidae","Sandia mcfarlandi",2022,5,21,"iNaturalist research-grade observations","3802294769","Adult"
+35.092818,-106.621693,NA,"Lycaenidae","Leptotes marina",2022,5,24,"iNaturalist research-grade observations","3802319260",NA
+35.138068,-106.481136,NA,"Lycaenidae","Sandia mcfarlandi",2022,5,21,"iNaturalist research-grade observations","3802329905",NA
+35.138009,-106.481149,NA,"Lycaenidae","Sandia mcfarlandi",2022,5,21,"iNaturalist research-grade observations","3802340882",NA
+35.172936,-106.680457,NA,"Lycaenidae","Strymon melinus",2022,5,22,"iNaturalist research-grade observations","3802348994",NA
+35.111503,-106.492333,NA,"Lycaenidae","Strymon melinus",2022,5,22,"iNaturalist research-grade observations","3802374821",NA
+35.083841,-106.516628,NA,"Lycaenidae","Leptotes marina",2022,5,25,"iNaturalist research-grade observations","3802400111",NA
+35.130906,-106.484169,NA,"Lycaenidae","Sandia mcfarlandi",2022,5,26,"iNaturalist research-grade observations","3802423261",NA
+35.092433,-106.620214,NA,"Lycaenidae","Leptotes marina",2022,5,24,"iNaturalist research-grade observations","3802456535",NA
+35.092379,-106.619847,NA,"Lycaenidae","Echinargus isola",2022,5,24,"iNaturalist research-grade observations","3802463376",NA
+35.092573,-106.621242,NA,"Lycaenidae","Leptotes marina",2022,5,24,"iNaturalist research-grade observations","3802566586",NA
+35.130884,-106.484198,NA,"Lycaenidae","Leptotes marina",2022,5,20,"iNaturalist research-grade observations","3802567685",NA
+35.101314,-106.62368,NA,"Lycaenidae","Echinargus isola",2022,5,24,"iNaturalist research-grade observations","3802702731",NA
+35.111561,-106.492613,NA,"Lycaenidae","Strymon melinus",2022,5,23,"iNaturalist research-grade observations","3802753515",NA
+35.111558,-106.492638,NA,"Lycaenidae","Leptotes marina",2022,5,23,"iNaturalist research-grade observations","3802814311",NA
+35.113975,-106.486769,NA,"Lycaenidae","Sandia mcfarlandi",2021,4,2,"iNaturalist research-grade observations","3079839328","Adult"
+35.105481,-106.484416,NA,"Lycaenidae","Strymon melinus",2021,4,10,"iNaturalist research-grade observations","3090916330",NA
+35.119332,-106.657116,NA,"Lycaenidae","Leptotes marina",2021,5,1,"iNaturalist research-grade observations","3112391288",NA
+35.143732,-106.7686,NA,"Lycaenidae","Leptotes marina",2021,5,15,"iNaturalist research-grade observations","3118223742","Adult"
+35.082972,-106.619963,NA,"Lycaenidae","Leptotes marina",2021,5,27,"iNaturalist research-grade observations","3124927338",NA
+35.098066,-106.597576,NA,"Lycaenidae","Leptotes marina",2021,5,23,"iNaturalist research-grade observations","3301907910",NA
+35.088347,-106.524105,NA,"Lycaenidae","Leptotes marina",2021,5,20,"iNaturalist research-grade observations","3320942441",NA
+35.07856,-106.479023,NA,"Lycaenidae","Apodemia mormo",2021,5,3,"iNaturalist research-grade observations","3759505551",NA
+35.043457,-106.598687,NA,"Lycaenidae","Sandia mcfarlandi",2021,6,1,"iNaturalist research-grade observations","3302058996",NA
+35.044568,-106.599072,NA,"Lycaenidae","Leptotes marina",2021,6,3,"iNaturalist research-grade observations","3302106479",NA
+35.100604,-106.488627,NA,"Lycaenidae","Echinargus isola",2021,6,20,"iNaturalist research-grade observations","3314197009","Adult"
+35.100611,-106.488587,NA,"Lycaenidae","Echinargus isola",2021,6,18,"iNaturalist research-grade observations","3314471748","Adult"
+35.139926,-106.596846,NA,"Lycaenidae","Leptotes marina",2021,6,4,"iNaturalist research-grade observations","3320858489","Adult"
+35.186328,-106.588156,NA,"Lycaenidae","Leptotes marina",2021,6,15,"iNaturalist research-grade observations","3320888527","Adult"
+35.097111,-106.47262,NA,"Lycaenidae","Strymon melinus",2021,7,24,"iNaturalist research-grade observations","3333328878",NA
+35.056689,-106.586175,NA,"Lycaenidae","Echinargus isola",2021,7,30,"iNaturalist research-grade observations","3335081761",NA
+35.136956,-106.531988,NA,"Lycaenidae","Brephidium exilis",2021,7,30,"iNaturalist research-grade observations","3343742528",NA
+35.078658,-106.605888,NA,"Lycaenidae","Brephidium exilis",2021,8,12,"iNaturalist research-grade observations","3337579798",NA
+35.156686,-106.60343,NA,"Lycaenidae","Brephidium exilis",2021,8,2,"iNaturalist research-grade observations","3337734944",NA
+35.1292,-106.68267,NA,"Lycaenidae","Atlides halesus",2021,8,14,"iNaturalist research-grade observations","3337743393",NA
+35.129238,-106.682856,NA,"Lycaenidae","Leptotes marina",2021,8,14,"iNaturalist research-grade observations","3337981590",NA
+35.129238,-106.682856,NA,"Lycaenidae","Atlides halesus",2021,8,14,"iNaturalist research-grade observations","3338048972",NA
+35.156672,-106.603438,NA,"Lycaenidae","Brephidium exilis",2021,8,20,"iNaturalist research-grade observations","3343706919",NA
+35.09473,-106.622454,NA,"Lycaenidae","Brephidium exilis",2021,8,22,"iNaturalist research-grade observations","3343790172",NA
+35.135392,-106.512616,NA,"Lycaenidae","Brephidium exilis",2021,8,22,"iNaturalist research-grade observations","3343876188",NA
+35.09927,-106.490631,NA,"Lycaenidae","Brephidium exilis",2021,8,23,"iNaturalist research-grade observations","3343964656",NA
+35.138292,-106.616578,NA,"Lycaenidae","Brephidium exilis",2021,8,8,"iNaturalist research-grade observations","3343988952",NA
+35.132995,-106.542203,NA,"Lycaenidae","Brephidium exilis",2021,8,29,"iNaturalist research-grade observations","3355457235","Adult"
+35.162099,-106.716725,NA,"Lycaenidae","Echinargus isola",2021,8,22,"iNaturalist research-grade observations","3355483934","Adult"
+35.131045,-106.681199,NA,"Lycaenidae","Brephidium exilis",2021,8,14,"iNaturalist research-grade observations","3383919002",NA
+35.13105,-106.681189,NA,"Lycaenidae","Brephidium exilis",2021,8,14,"iNaturalist research-grade observations","3384188042",NA
+35.063325,-106.596795,NA,"Lycaenidae","Brephidium exilis",2021,9,2,"iNaturalist research-grade observations","3355134697","Adult"
+35.101479,-106.488553,NA,"Lycaenidae","Brephidium exilis",2021,9,3,"iNaturalist research-grade observations","3355555822",NA
+35.160351,-106.572888,NA,"Lycaenidae","Brephidium exilis",2021,9,16,"iNaturalist research-grade observations","3383994122",NA
+35.102764,-106.661225,NA,"Lycaenidae","Brephidium exilis",2021,9,5,"iNaturalist research-grade observations","3384021462",NA
+35.131299,-106.68433,NA,"Lycaenidae","Echinargus isola",2021,9,18,"iNaturalist research-grade observations","3384255454",NA
+35.096581,-106.622903,NA,"Lycaenidae","Brephidium exilis",2021,9,15,"iNaturalist research-grade observations","3384347054","Adult"
+35.147911,-106.508198,NA,"Lycaenidae","Brephidium exilis",2021,9,27,"iNaturalist research-grade observations","3384398471",NA
+35.102003,-106.483487,NA,"Lycaenidae","Icaricia lupini",2021,9,27,"iNaturalist research-grade observations","3384532606",NA
+35.091013,-106.611239,NA,"Lycaenidae","Brephidium exilis",2021,9,23,"iNaturalist research-grade observations","3384697006",NA
+35.0808,-106.673622,NA,"Lycaenidae","Atlides halesus",2021,9,20,"iNaturalist research-grade observations","3385068721",NA
+35.128956,-106.682183,NA,"Lycaenidae","Brephidium exilis",2021,10,2,"iNaturalist research-grade observations","3391331084",NA
+35.131021,-106.480286,NA,"Lycaenidae","Echinargus isola",2021,10,17,"iNaturalist research-grade observations","3398653287",NA
+35.099295,-106.472802,NA,"Lycaenidae","Brephidium exilis",2021,10,14,"iNaturalist research-grade observations","3398654020",NA
+35.129048,-106.68574,NA,"Lycaenidae","Brephidium exilis",2021,10,23,"iNaturalist research-grade observations","3398782948",NA
+35.114837,-106.678528,NA,"Lycaenidae","Brephidium exilis",2021,10,18,"iNaturalist research-grade observations","3398873394",NA
+35.114649,-106.678708,NA,"Lycaenidae","Brephidium exilis",2021,10,18,"iNaturalist research-grade observations","3398886355",NA
+35.114659,-106.678612,NA,"Lycaenidae","Brephidium exilis",2021,10,18,"iNaturalist research-grade observations","3398968420",NA
+35.06847,-106.658803,NA,"Lycaenidae","Hemiargus ceraunus",2021,10,31,"iNaturalist research-grade observations","3408250934",NA
+35.147045,-106.484737,NA,"Lycaenidae","Icaricia lupini",2021,10,22,"iNaturalist research-grade observations","3415657091",NA
+35.130475,-106.682845,40,"Lycaenidae","Brephidium exilis",2021,10,2,"eButterfly","3427491979",NA
+35.081314,-106.654647,NA,"Lycaenidae","Brephidium exilis",2021,11,3,"iNaturalist research-grade observations","3415410113",NA
+35.119646,-106.657179,NA,"Lycaenidae","Brephidium exilis",2021,11,6,"iNaturalist research-grade observations","3415445097","Adult"
+35.129256,-106.684393,NA,"Lycaenidae","Brephidium exilis",2021,11,7,"iNaturalist research-grade observations","3415741387",NA
+35.11971,-106.657193,NA,"Lycaenidae","Brephidium exilis",2021,11,6,"iNaturalist research-grade observations","3416227463","Adult"
+35.106294,-106.486443,NA,"Lycaenidae","Sandia mcfarlandi",2020,3,7,"iNaturalist research-grade observations","2579249002",NA
+35.088767,-106.684581,NA,"Lycaenidae","Strymon melinus",2020,5,19,"iNaturalist research-grade observations","2626223250",NA
+35.187922,-106.48838,NA,"Lycaenidae","Strymon melinus",2020,5,9,"iNaturalist research-grade observations","2626637379",NA
+35.146439,-106.780714,NA,"Lycaenidae","Strymon melinus",2020,5,14,"iNaturalist research-grade observations","2633961695",NA
+35.166783,-106.608322,NA,"Lycaenidae","Strymon melinus",2020,5,22,"iNaturalist research-grade observations","2634255873",NA
+35.100989,-106.666391,NA,"Lycaenidae","Strymon melinus",2020,5,4,"iNaturalist research-grade observations","2634272573",NA
+35.12027,-106.684687,NA,"Lycaenidae","Strymon melinus",2020,5,30,"iNaturalist research-grade observations","2634535498",NA
+35.166805,-106.608275,NA,"Lycaenidae","Echinargus isola",2020,6,26,"iNaturalist research-grade observations","2813887058",NA
+35.12321,-106.49754,NA,"Lycaenidae","Echinargus isola",2020,6,27,"iNaturalist research-grade observations","2813944201",NA
+35.170208,-106.781584,NA,"Lycaenidae","Strymon melinus",2020,6,26,"iNaturalist research-grade observations","2814057914","Adult"
+35.144947,-106.58391,NA,"Lycaenidae","Brephidium exilis",2020,6,26,"iNaturalist research-grade observations","3468934454",NA
+35.07098,-106.616506,NA,"Lycaenidae","Brephidium exilis",2020,7,15,"iNaturalist research-grade observations","2850641781",NA
+35.089603,-106.699854,1,"Lycaenidae","Brephidium exilis",2020,7,5,"eButterfly","3427527020",NA
+35.091689,-106.67324,NA,"Lycaenidae","Strymon melinus",2020,8,3,"iNaturalist research-grade observations","2850730466",NA
+35.099339,-106.598089,NA,"Lycaenidae","Leptotes marina",2020,8,31,"iNaturalist research-grade observations","2860253386",NA
+34.98226,-106.616502,NA,"Lycaenidae","Brephidium exilis",2020,8,14,"iNaturalist research-grade observations","2988515639","Adult"
+35.096092,-106.669901,NA,"Lycaenidae","Brephidium exilis",2020,9,18,"iNaturalist research-grade observations","2868081585",NA
+35.096312,-106.669458,NA,"Lycaenidae","Brephidium exilis",2020,9,2,"iNaturalist research-grade observations","3031857958",NA
+35.096653,-106.669787,NA,"Lycaenidae","Brephidium exilis",2020,9,2,"iNaturalist research-grade observations","3031877920",NA
+35.096312,-106.669458,NA,"Lycaenidae","Brephidium exilis",2020,9,2,"iNaturalist research-grade observations","3031958868",NA
+35.096312,-106.669458,NA,"Lycaenidae","Brephidium exilis",2020,9,2,"iNaturalist research-grade observations","3031963902",NA
+35.096312,-106.669458,NA,"Lycaenidae","Brephidium exilis",2020,9,2,"iNaturalist research-grade observations","3031965872",NA
+35.096312,-106.669458,NA,"Lycaenidae","Brephidium exilis",2020,9,2,"iNaturalist research-grade observations","3031969834",NA
+35.075089,-106.618369,NA,"Lycaenidae","Brephidium exilis",2020,10,14,"iNaturalist research-grade observations","2898274230",NA
+35.13102,-106.684647,NA,"Lycaenidae","Echinargus isola",2020,10,23,"iNaturalist research-grade observations","2963792642",NA
+35.136036,-106.481995,NA,"Lycaenidae","Sandia mcfarlandi",2019,3,24,"iNaturalist research-grade observations","2234774658",NA
+35.158253,-106.483835,NA,"Lycaenidae","Leptotes marina",2019,4,21,"iNaturalist research-grade observations","3337464331",NA
+35.166282,-106.724027,NA,"Lycaenidae","Brephidium exilis",2019,5,21,"iNaturalist research-grade observations","3499530459",NA
+35.119561,-106.657238,NA,"Lycaenidae","Strymon melinus",2019,6,21,"iNaturalist research-grade observations","2273232381",NA
+35.136148,-106.480787,NA,"Lycaenidae","Icaricia lupini",2019,6,11,"iNaturalist research-grade observations","2283042813",NA
+35.136224,-106.481286,NA,"Lycaenidae","Sandia mcfarlandi",2019,6,11,"iNaturalist research-grade observations","2283042833",NA
+35.093203,-106.680935,NA,"Lycaenidae","Strymon melinus",2019,7,23,"iNaturalist research-grade observations","2311327642",NA
+35.193144,-106.661647,NA,"Lycaenidae","Atlides halesus",2019,7,27,"iNaturalist research-grade observations","2311339944",NA
+35.09242,-106.581903,NA,"Lycaenidae","Brephidium exilis",2019,10,11,"iNaturalist research-grade observations","2429551741",NA
+35.187391,-106.691154,NA,"Lycaenidae","Echinargus isola",2019,10,16,"iNaturalist research-grade observations","2456530714",NA
+35.12542,-106.734674,NA,"Lycaenidae","Brephidium exilis",2019,11,8,"iNaturalist research-grade observations","2460058504","Adult"
+35.017785,-106.62913,1,"Lycaenidae","Leptotes marina",2018,5,27,"eButterfly","3427524271",NA
+35.164989,-106.673002,NA,"Lycaenidae","Brephidium exilis",2018,7,1,"iNaturalist research-grade observations","1990564411",NA
+35.119653,-106.657356,NA,"Lycaenidae","Brephidium exilis",2018,8,18,"iNaturalist research-grade observations","1898800760",NA
+35.113511,-106.489862,NA,"Lycaenidae","Leptotes marina",2018,9,9,"iNaturalist research-grade observations","1913664433",NA
+35.113458,-106.489926,NA,"Lycaenidae","Leptotes marina",2018,9,15,"iNaturalist research-grade observations","1913695643",NA
+35.136079,-106.480407,NA,"Lycaenidae","Brephidium exilis",2018,9,20,"iNaturalist research-grade observations","1914233859",NA
+35.094497,-106.492125,NA,"Lycaenidae","Sandia mcfarlandi",2017,3,13,"iNaturalist research-grade observations","1457618989",NA
+35.099722,-106.47166,2,"Lycaenidae","Sandia mcfarlandi",2017,4,8,"eButterfly","3397456373",NA
+35.128684,-106.682889,NA,"Lycaenidae","Leptotes marina",2017,5,7,"iNaturalist research-grade observations","1562969838",NA
+35.049485,-106.742253,NA,"Lycaenidae","Leptotes marina",2017,6,16,"iNaturalist research-grade observations","1571145578",NA
+35.09527,-106.471526,NA,"Lycaenidae","Brephidium exilis",2017,7,4,"iNaturalist research-grade observations","1584404452",NA
+35.105342,-106.619854,NA,"Lycaenidae","Leptotes marina",2017,7,27,"iNaturalist research-grade observations","3384995780",NA
+35.103584,-106.617486,4,"Lycaenidae","Leptotes marina",2017,7,27,"eButterfly","3397449577",NA
+35.085334,-106.605553,1,"Lycaenidae","Brephidium exilis",2017,8,13,"eButterfly","3397451714",NA
+35.093301,-106.679551,NA,"Lycaenidae","Leptotes marina",2016,7,2,"iNaturalist research-grade observations","1453280344",NA
+35.128677,-106.682871,NA,"Lycaenidae","Echinargus isola",2016,7,2,"iNaturalist research-grade observations","1572385539",NA
+35.128677,-106.682871,NA,"Lycaenidae","Echinargus isola",2016,7,2,"iNaturalist research-grade observations","1677299570",NA
+35.093301,-106.679551,NA,"Lycaenidae","Strymon melinus",2016,7,2,"iNaturalist research-grade observations","1677299743",NA
+35.128677,-106.682871,NA,"Lycaenidae","Brephidium exilis",2016,8,6,"iNaturalist research-grade observations","1677319055",NA
+35.100025,-106.47964,NA,"Lycaenidae","Leptotes marina",2014,6,19,"iNaturalist research-grade observations","2294666034",NA
+35.099563,-106.477882,NA,"Lycaenidae","Sandia mcfarlandi",2014,6,19,"iNaturalist research-grade observations","2397488740",NA
+35.131031,-106.6826,1,"Lycaenidae","Echinargus isola",2014,6,28,"eButterfly","3397386083",NA
+35.09895,-106.479642,1,"Lycaenidae","Echinargus isola",2013,8,24,"eButterfly","3397425376",NA
+35.09895,-106.479642,1,"Lycaenidae","Brephidium exilis",2013,8,24,"eButterfly","3397442374",NA
+35.173306,-106.681461,NA,"Lycaenidae","Leptotes marina",2012,5,15,"iNaturalist research-grade observations","1848792423",NA
+35.173311,-106.681351,NA,"Lycaenidae","Leptotes marina",2012,5,19,"iNaturalist research-grade observations","1848792434",NA
+35.079333,-106.484,NA,"Lycaenidae","Icaricia lupini",2012,5,14,"iNaturalist research-grade observations","3070314367","Adult"
+35.099722,-106.473011,NA,"Lycaenidae","Sandia mcfarlandi",2011,3,14,"iNaturalist research-grade observations","1262389903","Adult"
+35.098844,-106.478205,8,"Lycaenidae","Sandia mcfarlandi",2011,3,14,"eButterfly","3397543696",NA
+35.077652,-106.600578,1,"Lycaenidae","Strymon melinus",2011,6,9,"eButterfly","3397356748",NA
+35.018575,-106.600986,1,"Lycaenidae","Brephidium exilis",2011,8,11,"eButterfly","3397524741",NA
+35.08083,-106.671839,3,"Lycaenidae","Brephidium exilis",2011,9,29,"eButterfly","3397356752",NA
+35.08083,-106.671839,6,"Lycaenidae","Hemiargus ceraunus",2011,9,29,"eButterfly","3397361754",NA
+35.08083,-106.671839,1,"Lycaenidae","Leptotes marina",2011,9,29,"eButterfly","3397364753",NA
+35.111906,-106.486467,NA,"Lycaenidae","Sandia mcfarlandi",2010,4,7,"iNaturalist research-grade observations","1890676793",NA
+35.079744,-106.671309,NA,"Nymphalidae","Polygonia interrogationis",2022,3,4,"iNaturalist research-grade observations","3712707584",NA
+35.08241,-106.676479,NA,"Nymphalidae","Danaus gilippus",2022,3,15,"iNaturalist research-grade observations","3743082133",NA
+35.11121,-106.484239,NA,"Nymphalidae","Nymphalis antiopa",2022,3,13,"iNaturalist research-grade observations","3743103830",NA
+35.104414,-106.620502,NA,"Nymphalidae","Vanessa cardui",2022,3,16,"iNaturalist research-grade observations","3743116243",NA
+35.09547,-106.684417,NA,"Nymphalidae","Nymphalis antiopa",2022,3,12,"iNaturalist research-grade observations","3743275688",NA
+35.112978,-106.480832,NA,"Nymphalidae","Nymphalis antiopa",2022,3,13,"iNaturalist research-grade observations","3743292702",NA
+35.111457,-106.486408,NA,"Nymphalidae","Nymphalis antiopa",2022,3,13,"iNaturalist research-grade observations","3743297791","Adult"
+35.105576,-106.62223,NA,"Nymphalidae","Nymphalis antiopa",2022,3,19,"iNaturalist research-grade observations","3747066788",NA
+35.089253,-106.677966,NA,"Nymphalidae","Nymphalis antiopa",2022,3,24,"iNaturalist research-grade observations","3759053958",NA
+35.119803,-106.484479,NA,"Nymphalidae","Nymphalis antiopa",2022,3,27,"iNaturalist research-grade observations","3759078230",NA
+35.089159,-106.678435,NA,"Nymphalidae","Nymphalis antiopa",2022,3,25,"iNaturalist research-grade observations","3759090909",NA
+35.130224,-106.682624,NA,"Nymphalidae","Vanessa cardui",2022,4,15,"iNaturalist research-grade observations","3759395023",NA
+35.045663,-106.482029,NA,"Nymphalidae","Vanessa cardui",2022,4,3,"iNaturalist research-grade observations","3759595762",NA
+35.13335,-106.657167,NA,"Nymphalidae","Vanessa cardui",2022,4,14,"iNaturalist research-grade observations","3759765078",NA
+35.118447,-106.497715,NA,"Nymphalidae","Vanessa cardui",2022,4,14,"iNaturalist research-grade observations","3759914982",NA
+35.045663,-106.482029,NA,"Nymphalidae","Vanessa cardui",2022,4,3,"iNaturalist research-grade observations","3759923857",NA
+35.045663,-106.482029,NA,"Nymphalidae","Vanessa cardui",2022,4,3,"iNaturalist research-grade observations","3759942786",NA
+35.045663,-106.482029,NA,"Nymphalidae","Vanessa cardui",2022,4,3,"iNaturalist research-grade observations","3759977762",NA
+35.21465,-106.722865,NA,"Nymphalidae","Nymphalis antiopa",2022,4,1,"iNaturalist research-grade observations","3759983566",NA
+35.150671,-106.522649,NA,"Nymphalidae",NA,2022,4,11,"iNaturalist research-grade observations","3759995664","Larva"
+35.114295,-106.542664,NA,"Nymphalidae","Vanessa cardui",2022,4,14,"iNaturalist research-grade observations","3760024970",NA
+35.084933,-106.623682,NA,"Nymphalidae","Euptoieta claudia",2022,4,16,"iNaturalist research-grade observations","3760102221",NA
+35.130012,-106.683711,NA,"Nymphalidae","Nymphalis antiopa",2022,4,15,"iNaturalist research-grade observations","3760275109",NA
+35.099747,-106.576172,NA,"Nymphalidae","Nymphalis antiopa",2022,4,27,"iNaturalist research-grade observations","3764218142",NA
+35.082868,-106.622101,NA,"Nymphalidae","Euptoieta claudia",2022,4,28,"iNaturalist research-grade observations","3764629321",NA
+35.096057,-106.507894,NA,"Nymphalidae","Vanessa atalanta",2022,4,23,"iNaturalist research-grade observations","3772723184",NA
+35.133681,-106.60247,NA,"Nymphalidae","Cynthia annabella",2022,4,24,"iNaturalist research-grade observations","3772784687","Adult"
+35.092727,-106.680847,NA,"Nymphalidae","Phyciodes tharos",2022,4,30,"iNaturalist research-grade observations","3773198020",NA
+35.109104,-106.486783,NA,"Nymphalidae","Euptoieta claudia",2022,4,29,"iNaturalist research-grade observations","3773351076",NA
+35.162068,-106.702486,NA,"Nymphalidae","Danaus plexippus",2022,5,2,"iNaturalist research-grade observations","3773097978","Adult"
+35.136331,-106.481706,NA,"Nymphalidae","Euptoieta claudia",2022,5,9,"iNaturalist research-grade observations","3773352404",NA
+35.080365,-106.668914,NA,"Nymphalidae","Nymphalis antiopa",2022,5,2,"iNaturalist research-grade observations","3773477620",NA
+35.111372,-106.683674,NA,"Nymphalidae","Nymphalis antiopa",2022,5,4,"iNaturalist research-grade observations","3773543443",NA
+35.164918,-106.669259,NA,"Nymphalidae","Limenitis archippus",2022,5,12,"iNaturalist research-grade observations","3802767550",NA
+35.092381,-106.680625,NA,"Nymphalidae","Nymphalis antiopa",2021,3,5,"iNaturalist research-grade observations","3059104685","Adult"
+35.09296,-106.681488,NA,"Nymphalidae","Nymphalis antiopa",2021,3,19,"iNaturalist research-grade observations","3067719403",NA
+35.185488,-106.718187,NA,"Nymphalidae","Danaus gilippus",2021,4,16,"iNaturalist research-grade observations","3097145670",NA
+35.093372,-106.681595,NA,"Nymphalidae","Danaus plexippus",2021,4,30,"iNaturalist research-grade observations","3112363765",NA
+35.085286,-106.60858,NA,"Nymphalidae","Danaus plexippus",2021,4,30,"iNaturalist research-grade observations","3112722770","Adult"
+35.071586,-106.615984,NA,"Nymphalidae","Vanessa cardui",2021,5,13,"iNaturalist research-grade observations","3113423820","Adult"
+35.130061,-106.674438,NA,"Nymphalidae","Nymphalis antiopa",2021,5,9,"iNaturalist research-grade observations","3113574278",NA
+35.098729,-106.477838,NA,"Nymphalidae","Euptoieta claudia",2021,5,20,"iNaturalist research-grade observations","3499381601","Adult"
+35.130006,-106.674417,NA,"Nymphalidae","Nymphalis antiopa",2021,6,12,"iNaturalist research-grade observations","3307416009",NA
+35.076062,-106.666142,NA,"Nymphalidae","Nymphalis antiopa",2021,6,19,"iNaturalist research-grade observations","3314230889",NA
+35.214313,-106.722922,NA,"Nymphalidae","Vanessa cardui",2021,6,20,"iNaturalist research-grade observations","3314386412",NA
+35.145426,-106.49419,NA,"Nymphalidae","Euptoieta claudia",2021,6,22,"iNaturalist research-grade observations","3314595345","Adult"
+35.136036,-106.481995,NA,"Nymphalidae","Cercyonis pegala",2021,6,28,"iNaturalist research-grade observations","3321083262",NA
+35.092547,-106.680983,NA,"Nymphalidae","Danaus plexippus",2021,6,21,"iNaturalist research-grade observations","3773801337",NA
+35.130611,-106.68418,NA,"Nymphalidae","Phyciodes tharos",2021,7,10,"iNaturalist research-grade observations","3327717917",NA
+35.119303,-106.657722,NA,"Nymphalidae","Vanessa atalanta",2021,7,11,"iNaturalist research-grade observations","3327915012",NA
+35.058751,-106.517109,NA,"Nymphalidae","Euptoieta claudia",2021,7,7,"iNaturalist research-grade observations","3328010570",NA
+35.081917,-106.617522,NA,"Nymphalidae","Euptoieta claudia",2021,7,21,"iNaturalist research-grade observations","3330537449","Adult"
+35.094612,-106.57399,NA,"Nymphalidae",NA,2021,7,7,"iNaturalist research-grade observations","3333411521",NA
+35.052475,-106.585997,NA,"Nymphalidae","Danaus plexippus",2021,7,30,"iNaturalist research-grade observations","3335430674",NA
+35.084386,-106.650422,NA,"Nymphalidae","Euptoieta claudia",2021,7,11,"iNaturalist research-grade observations","3355741166",NA
+35.094564,-106.682787,NA,"Nymphalidae","Polygonia interrogationis",2021,8,2,"iNaturalist research-grade observations","3335138170",NA
+35.087061,-106.677441,NA,"Nymphalidae","Danaus plexippus",2021,8,1,"iNaturalist research-grade observations","3335420145",NA
+35.092617,-106.681305,NA,"Nymphalidae","Euptoieta claudia",2021,8,4,"iNaturalist research-grade observations","3335465468",NA
+35.082332,-106.673219,NA,"Nymphalidae","Danaus plexippus",2021,8,17,"iNaturalist research-grade observations","3337612780",NA
+35.156314,-106.604217,NA,"Nymphalidae","Danaus plexippus",2021,8,17,"iNaturalist research-grade observations","3337824613",NA
+35.129238,-106.682856,NA,"Nymphalidae",NA,2021,8,14,"iNaturalist research-grade observations","3337999375",NA
+35.129238,-106.682856,NA,"Nymphalidae","Vanessa atalanta",2021,8,14,"iNaturalist research-grade observations","3338090448",NA
+35.051689,-106.480782,NA,"Nymphalidae","Chlosyne lacinia",2021,8,19,"iNaturalist research-grade observations","3338112205",NA
+35.135611,-106.530167,NA,"Nymphalidae","Phyciodes tharos",2021,8,22,"iNaturalist research-grade observations","3343790254",NA
+35.098142,-106.6224,NA,"Nymphalidae","Euptoieta claudia",2021,8,20,"iNaturalist research-grade observations","3343935327",NA
+35.129243,-106.550107,NA,"Nymphalidae","Chlosyne lacinia",2021,8,22,"iNaturalist research-grade observations","3343954412",NA
+35.132995,-106.542203,NA,"Nymphalidae","Libytheana carinenta",2021,8,22,"iNaturalist research-grade observations","3344007362","Adult"
+35.1299,-106.684627,NA,"Nymphalidae","Phyciodes tharos",2021,8,29,"iNaturalist research-grade observations","3354991230",NA
+35.001808,-106.61962,NA,"Nymphalidae","Danaus gilippus",2021,8,30,"iNaturalist research-grade observations","3355135377",NA
+35.00187,-106.619609,NA,"Nymphalidae","Danaus plexippus",2021,8,30,"iNaturalist research-grade observations","3355783371",NA
+35.001884,-106.619617,NA,"Nymphalidae","Danaus gilippus",2021,8,30,"iNaturalist research-grade observations","3355795363",NA
+35.001521,-106.620514,NA,"Nymphalidae","Libytheana carinenta",2021,8,30,"iNaturalist research-grade observations","3355798327",NA
+35.001877,-106.619605,NA,"Nymphalidae","Chlosyne lacinia",2021,8,30,"iNaturalist research-grade observations","3355800341",NA
+35.130883,-106.682065,NA,"Nymphalidae","Phyciodes tharos",2021,8,14,"iNaturalist research-grade observations","3384652032",NA
+35.130871,-106.682074,NA,"Nymphalidae","Phyciodes tharos",2021,8,14,"iNaturalist research-grade observations","3465951653",NA
+35.143915,-106.657091,NA,"Nymphalidae","Euptoieta claudia",2021,9,5,"iNaturalist research-grade observations","3355417061",NA
+35.166636,-106.608362,NA,"Nymphalidae",NA,2021,9,4,"iNaturalist research-grade observations","3355800903",NA
+35.093258,-106.621533,NA,"Nymphalidae","Danaus plexippus",2021,9,10,"iNaturalist research-grade observations","3383995495",NA
+35.096177,-106.476512,NA,"Nymphalidae","Chlosyne lacinia",2021,9,25,"iNaturalist research-grade observations","3384022217",NA
+35.098722,-106.479762,NA,"Nymphalidae","Libytheana carinenta",2021,9,25,"iNaturalist research-grade observations","3384023160",NA
+35.067444,-106.636274,NA,"Nymphalidae","Vanessa cardui",2021,9,29,"iNaturalist research-grade observations","3384166752",NA
+35.128897,-106.686018,NA,"Nymphalidae","Cynthia annabella",2021,9,25,"iNaturalist research-grade observations","3384213416",NA
+35.079685,-106.671546,NA,"Nymphalidae","Libytheana carinenta",2021,9,20,"iNaturalist research-grade observations","3384324712",NA
+35.080175,-106.671994,NA,"Nymphalidae","Danaus plexippus",2021,9,20,"iNaturalist research-grade observations","3384404657",NA
+35.09251,-106.680945,NA,"Nymphalidae","Danaus plexippus",2021,9,12,"iNaturalist research-grade observations","3384416459",NA
+35.093678,-106.682512,NA,"Nymphalidae","Polygonia interrogationis",2021,9,27,"iNaturalist research-grade observations","3384421545",NA
+35.080602,-106.671944,NA,"Nymphalidae","Danaus plexippus",2021,9,20,"iNaturalist research-grade observations","3384435749",NA
+35.096065,-106.476657,NA,"Nymphalidae","Thessalia leanira",2021,9,25,"iNaturalist research-grade observations","3384447240",NA
+35.068207,-106.655645,NA,"Nymphalidae","Euptoieta claudia",2021,9,28,"iNaturalist research-grade observations","3384456818",NA
+35.066286,-106.657556,NA,"Nymphalidae","Vanessa cardui",2021,9,28,"iNaturalist research-grade observations","3384700774",NA
+35.081772,-106.573617,NA,"Nymphalidae","Danaus plexippus",2021,9,14,"iNaturalist research-grade observations","3384842448",NA
+35.085451,-106.623482,NA,"Nymphalidae","Danaus plexippus",2021,9,20,"iNaturalist research-grade observations","3384961818",NA
+35.080565,-106.671998,NA,"Nymphalidae","Danaus plexippus",2021,9,20,"iNaturalist research-grade observations","3384966646",NA
+35.149404,-106.563832,NA,"Nymphalidae","Dryas iulia",2021,9,14,"iNaturalist research-grade observations","3384981968",NA
+35.080186,-106.671987,NA,"Nymphalidae","Danaus plexippus",2021,9,20,"iNaturalist research-grade observations","3385026729",NA
+35.080276,-106.670732,NA,"Nymphalidae","Phyciodes tharos",2021,9,20,"iNaturalist research-grade observations","3385103669",NA
+35.06809,-106.654884,NA,"Nymphalidae","Libytheana carinenta",2021,9,28,"iNaturalist research-grade observations","3385187778",NA
+35.068207,-106.655645,NA,"Nymphalidae","Libytheana carinenta",2021,9,28,"iNaturalist research-grade observations","3385203811",NA
+35.068204,-106.655188,NA,"Nymphalidae","Libytheana carinenta",2021,9,28,"iNaturalist research-grade observations","3385207831",NA
+35.09617,-106.476519,NA,"Nymphalidae","Thessalia leanira",2021,9,25,"iNaturalist research-grade observations","3398686835",NA
+35.080261,-106.670714,NA,"Nymphalidae","Phyciodes tharos",2021,9,20,"iNaturalist research-grade observations","3466313598",NA
+35.083284,-106.622873,NA,"Nymphalidae","Limenitis bredowii",2021,10,4,"iNaturalist research-grade observations","3384567395",NA
+35.135575,-106.530167,NA,"Nymphalidae","Vanessa cardui",2021,10,2,"iNaturalist research-grade observations","3385205028",NA
+35.081511,-106.62368,NA,"Nymphalidae","Vanessa cardui",2021,10,9,"iNaturalist research-grade observations","3391330795",NA
+35.137136,-106.691183,NA,"Nymphalidae","Polygonia interrogationis",2021,10,10,"iNaturalist research-grade observations","3391413944",NA
+35.098828,-106.479213,NA,"Nymphalidae","Vanessa cardui",2021,10,14,"iNaturalist research-grade observations","3391474366",NA
+35.136861,-106.531792,NA,"Nymphalidae","Libytheana carinenta",2021,10,17,"iNaturalist research-grade observations","3398732267",NA
+35.103902,-106.62034,NA,"Nymphalidae","Libytheana carinenta",2021,10,22,"iNaturalist research-grade observations","3398882798",NA
+35.136111,-106.521238,NA,"Nymphalidae","Vanessa cardui",2021,10,25,"iNaturalist research-grade observations","3398926077",NA
+35.13595,-106.482217,NA,"Nymphalidae","Euptoieta claudia",2021,10,15,"iNaturalist research-grade observations","3399027029",NA
+35.135447,-106.524825,NA,"Nymphalidae","Euptoieta claudia",2021,10,25,"iNaturalist research-grade observations","3399227129",NA
+35.100772,-106.488853,NA,"Nymphalidae","Libytheana carinenta",2021,10,20,"iNaturalist research-grade observations","3399310553",NA
+35.081136,-106.6239,NA,"Nymphalidae","Vanessa cardui",2021,10,19,"iNaturalist research-grade observations","3399348544",NA
+35.070314,-106.658564,NA,"Nymphalidae","Nymphalis antiopa",2021,10,25,"iNaturalist research-grade observations","3399354258",NA
+35.092863,-106.681117,NA,"Nymphalidae","Vanessa atalanta",2021,10,24,"iNaturalist research-grade observations","3399365117",NA
+35.136222,-106.481133,NA,"Nymphalidae","Libytheana carinenta",2021,10,22,"iNaturalist research-grade observations","3399479949",NA
+35.099281,-106.490525,NA,"Nymphalidae","Vanessa cardui",2021,10,30,"iNaturalist research-grade observations","3407917803",NA
+35.097524,-106.609375,NA,"Nymphalidae","Libytheana carinenta",2021,10,28,"iNaturalist research-grade observations","3407922676","Adult"
+35.210896,-106.671039,NA,"Nymphalidae","Danaus plexippus",2021,10,29,"iNaturalist research-grade observations","3407989701",NA
+35.119648,-106.657166,NA,"Nymphalidae","Euptoieta claudia",2021,10,29,"iNaturalist research-grade observations","3408216698",NA
+35.099281,-106.490525,NA,"Nymphalidae","Libytheana carinenta",2021,10,30,"iNaturalist research-grade observations","3408244797",NA
+35.099281,-106.490525,NA,"Nymphalidae","Libytheana carinenta",2021,10,30,"iNaturalist research-grade observations","3408245851",NA
+35.119555,-106.657317,NA,"Nymphalidae","Vanessa cardui",2021,11,2,"iNaturalist research-grade observations","3408183091",NA
+35.102818,-106.66127,NA,"Nymphalidae","Vanessa virginiensis",2021,11,20,"iNaturalist research-grade observations","3415636893",NA
+35.152717,-106.558218,NA,"Nymphalidae","Libytheana carinenta",2021,11,10,"iNaturalist research-grade observations","3415641353",NA
+35.084265,-106.650422,NA,"Nymphalidae","Euptoieta claudia",2021,11,16,"iNaturalist research-grade observations","3415665770","Adult"
+35.119715,-106.657206,NA,"Nymphalidae","Libytheana carinenta",2021,11,5,"iNaturalist research-grade observations","3415798063",NA
+35.159081,-106.580376,NA,"Nymphalidae","Vanessa cardui",2021,11,10,"iNaturalist research-grade observations","3415987016",NA
+35.119977,-106.657558,NA,"Nymphalidae","Libytheana carinenta",2021,11,6,"iNaturalist research-grade observations","3415997357","Adult"
+35.119655,-106.657186,NA,"Nymphalidae","Danaus plexippus",2021,11,7,"iNaturalist research-grade observations","3416026497","Adult"
+35.102825,-106.661292,NA,"Nymphalidae","Vanessa cardui",2021,11,6,"iNaturalist research-grade observations","3416206134",NA
+35.0939,-106.582092,NA,"Nymphalidae","Libytheana carinenta",2021,11,12,"iNaturalist research-grade observations","3416224109",NA
+35.071481,-106.47847,NA,"Nymphalidae","Euptoieta claudia",2021,11,26,"iNaturalist research-grade observations","3456308253",NA
+35.130447,-106.684303,NA,"Nymphalidae","Nymphalis antiopa",2020,3,3,"iNaturalist research-grade observations","2576475249",NA
+35.129975,-106.684563,NA,"Nymphalidae","Nymphalis antiopa",2020,3,5,"iNaturalist research-grade observations","2579399120",NA
+35.119634,-106.657225,NA,"Nymphalidae","Vanessa cardui",2020,4,5,"iNaturalist research-grade observations","2597698366",NA
+35.118197,-106.659015,NA,"Nymphalidae","Vanessa cardui",2020,4,6,"iNaturalist research-grade observations","2597711637",NA
+35.123987,-106.721086,NA,"Nymphalidae","Vanessa cardui",2020,4,5,"iNaturalist research-grade observations","2597726400",NA
+35.158534,-106.705815,NA,"Nymphalidae","Vanessa cardui",2020,4,3,"iNaturalist research-grade observations","2597838003",NA
+35.149079,-106.486603,NA,"Nymphalidae","Vanessa cardui",2020,4,4,"iNaturalist research-grade observations","2597858183",NA
+35.09797,-106.583153,NA,"Nymphalidae","Vanessa cardui",2020,4,7,"iNaturalist research-grade observations","2603298953",NA
+35.117928,-106.540262,NA,"Nymphalidae","Vanessa cardui",2020,4,6,"iNaturalist research-grade observations","2603300895",NA
+35.171933,-106.7755,NA,"Nymphalidae","Vanessa cardui",2020,4,5,"iNaturalist research-grade observations","2603334600","Adult"
+35.184984,-106.726021,NA,"Nymphalidae","Vanessa cardui",2020,4,5,"iNaturalist research-grade observations","2603451070","Adult"
+35.084831,-106.61515,NA,"Nymphalidae","Vanessa cardui",2020,4,23,"iNaturalist research-grade observations","2609172528",NA
+35.084647,-106.61518,NA,"Nymphalidae","Vanessa cardui",2020,4,23,"iNaturalist research-grade observations","2609260288",NA
+35.043886,-106.507416,NA,"Nymphalidae","Nymphalis antiopa",2020,4,16,"iNaturalist research-grade observations","2610960996","Adult"
+35.128339,-106.72947,NA,"Nymphalidae","Euptoieta claudia",2020,4,24,"iNaturalist research-grade observations","2610978175",NA
+35.109836,-106.489932,NA,"Nymphalidae","Vanessa atalanta",2020,4,16,"iNaturalist research-grade observations","2611072738","Adult"
+35.105014,-106.615747,NA,"Nymphalidae","Vanessa cardui",2020,4,25,"iNaturalist research-grade observations","2611096854",NA
+35.108741,-106.546244,NA,"Nymphalidae","Vanessa cardui",2020,4,16,"iNaturalist research-grade observations","2611129026","Adult"
+35.084386,-106.650422,NA,"Nymphalidae","Vanessa cardui",2020,4,3,"iNaturalist research-grade observations","2611277546",NA
+35.077919,-106.481968,NA,"Nymphalidae","Euptoieta claudia",2020,4,26,"iNaturalist research-grade observations","2611329236",NA
+35.104263,-106.612642,NA,"Nymphalidae","Euptoieta claudia",2020,4,25,"iNaturalist research-grade observations","2611415053",NA
+35.077943,-106.632365,NA,"Nymphalidae","Nymphalis antiopa",2020,4,30,"iNaturalist research-grade observations","2611428742",NA
+35.075943,-106.665563,NA,"Nymphalidae","Nymphalis antiopa",2020,4,25,"iNaturalist research-grade observations","2620050698",NA
+35.135369,-106.672699,NA,"Nymphalidae","Vanessa cardui",2020,4,5,"iNaturalist research-grade observations","2620076724",NA
+35.093367,-106.681779,NA,"Nymphalidae","Anthanassa texana",2020,4,10,"iNaturalist research-grade observations","2634031541",NA
+35.159722,-106.731944,NA,"Nymphalidae","Vanessa cardui",2020,4,6,"iNaturalist research-grade observations","3112324872",NA
+35.064993,-106.516598,NA,"Nymphalidae",NA,2020,5,3,"iNaturalist research-grade observations","2619874857",NA
+35.088376,-106.690054,NA,"Nymphalidae","Nymphalis antiopa",2020,5,7,"iNaturalist research-grade observations","2620087040",NA
+35.134841,-106.672613,NA,"Nymphalidae","Junonia nigrosuffusa",2020,5,3,"iNaturalist research-grade observations","2620146537",NA
+35.173361,-106.542607,NA,"Nymphalidae","Vanessa cardui",2020,5,9,"iNaturalist research-grade observations","2626166111",NA
+35.096981,-106.563728,NA,"Nymphalidae","Vanessa cardui",2020,5,15,"iNaturalist research-grade observations","2626194614",NA
+35.080692,-106.675183,NA,"Nymphalidae","Nymphalis antiopa",2020,5,19,"iNaturalist research-grade observations","2626275594",NA
+35.123188,-106.49745,NA,"Nymphalidae","Vanessa cardui",2020,5,16,"iNaturalist research-grade observations","2626340623",NA
+35.118899,-106.577511,NA,"Nymphalidae","Limenitis bredowii",2020,5,9,"iNaturalist research-grade observations","2626433532",NA
+35.065014,-106.516617,NA,"Nymphalidae","Vanessa cardui",2020,5,18,"iNaturalist research-grade observations","2626474585",NA
+35.072169,-106.665267,NA,"Nymphalidae","Nymphalis antiopa",2020,5,19,"iNaturalist research-grade observations","2626475138",NA
+35.158989,-106.751238,NA,"Nymphalidae","Vanessa cardui",2020,5,23,"iNaturalist research-grade observations","2634028132","Adult"
+35.121414,-106.669167,NA,"Nymphalidae","Vanessa cardui",2020,5,23,"iNaturalist research-grade observations","2634030045",NA
+35.188035,-106.488098,NA,"Nymphalidae","Vanessa cardui",2020,5,10,"iNaturalist research-grade observations","2634304685",NA
+35.081325,-106.52102,NA,"Nymphalidae","Vanessa atalanta",2020,5,31,"iNaturalist research-grade observations","2634325660","Adult"
+35.044912,-106.75153,NA,"Nymphalidae","Euptoieta claudia",2020,5,13,"iNaturalist research-grade observations","2634352207","Adult"
+35.182175,-106.562112,NA,"Nymphalidae","Vanessa cardui",2020,5,30,"iNaturalist research-grade observations","2634419533",NA
+35.078541,-106.67002,NA,"Nymphalidae","Danaus gilippus",2020,5,25,"iNaturalist research-grade observations","2634561609","Adult"
+35.047997,-106.635968,NA,"Nymphalidae","Nymphalis antiopa",2020,5,15,"iNaturalist research-grade observations","3067687840",NA
+35.110522,-106.539222,NA,"Nymphalidae","Euptoieta claudia",2020,5,15,"iNaturalist research-grade observations","3112677628",NA
+35.035109,-106.736932,NA,"Nymphalidae",NA,2020,6,23,"iNaturalist research-grade observations","2803038004",NA
+35.11965,-106.657051,NA,"Nymphalidae","Nymphalis antiopa",2020,6,17,"iNaturalist research-grade observations","2803115410","Adult"
+35.073449,-106.661293,NA,"Nymphalidae","Danaus gilippus",2020,6,14,"iNaturalist research-grade observations","3067761983",NA
+35.127635,-106.580506,NA,"Nymphalidae",NA,2020,6,29,"iNaturalist research-grade observations","3330920567",NA
+35.148539,-106.545502,1,"Nymphalidae","Danaus gilippus",2020,6,30,"eButterfly","3427528992",NA
+35.071566,-106.616031,NA,"Nymphalidae","Vanessa cardui",2020,7,9,"iNaturalist research-grade observations","2818583596","Adult"
+35.087781,-106.581451,NA,"Nymphalidae","Vanessa cardui",2020,7,20,"iNaturalist research-grade observations","2823251188",NA
+35.080914,-106.670549,NA,"Nymphalidae","Danaus gilippus",2020,7,26,"iNaturalist research-grade observations","2859963016",NA
+35.088292,-106.605922,NA,"Nymphalidae","Cynthia annabella",2020,7,9,"iNaturalist research-grade observations","3067723537","Adult"
+35.081269,-106.672265,NA,"Nymphalidae","Phyciodes tharos",2020,8,15,"iNaturalist research-grade observations","2850755915",NA
+35.126752,-106.65004,NA,"Nymphalidae","Vanessa cardui",2020,9,4,"iNaturalist research-grade observations","2862368662","Adult"
+35.081468,-106.67284,NA,"Nymphalidae","Vanessa cardui",2020,9,14,"iNaturalist research-grade observations","2864855537",NA
+35.135399,-106.480536,NA,"Nymphalidae","Limenitis bredowii",2020,9,21,"iNaturalist research-grade observations","2873974024",NA
+35.03796,-106.749979,NA,"Nymphalidae","Danaus gilippus",2020,10,14,"iNaturalist research-grade observations","2901595099",NA
+35.084386,-106.650422,NA,"Nymphalidae","Danaus plexippus",2020,10,21,"iNaturalist research-grade observations","2901805281","Adult"
+35.136036,-106.481995,NA,"Nymphalidae","Eresia aveyrana",2019,3,24,"iNaturalist research-grade observations","2234773660",NA
+35.13753,-106.489162,NA,"Nymphalidae","Vanessa cardui",2019,3,24,"iNaturalist research-grade observations","2234775186",NA
+35.064597,-106.529116,NA,"Nymphalidae","Vanessa cardui",2019,3,29,"iNaturalist research-grade observations","2236861404",NA
+35.084457,-106.476428,NA,"Nymphalidae","Vanessa cardui",2019,3,29,"iNaturalist research-grade observations","3067782550",NA
+35.081756,-106.62458,NA,"Nymphalidae","Vanessa cardui",2019,4,4,"iNaturalist research-grade observations","2235556365","Adult"
+35.157933,-106.483493,NA,"Nymphalidae","Vanessa cardui",2019,4,21,"iNaturalist research-grade observations","2238820189",NA
+35.087941,-106.678177,NA,"Nymphalidae","Vanessa atalanta",2019,4,26,"iNaturalist research-grade observations","2238828720",NA
+35.111546,-106.488295,NA,"Nymphalidae","Euptoieta claudia",2019,4,27,"iNaturalist research-grade observations","2251836512",NA
+35.099005,-106.479679,NA,"Nymphalidae","Vanessa cardui",2019,4,26,"iNaturalist research-grade observations","2331828759",NA
+35.098996,-106.4797,NA,"Nymphalidae","Vanessa cardui",2019,4,26,"iNaturalist research-grade observations","2331828763",NA
+35.098711,-106.478589,NA,"Nymphalidae","Vanessa cardui",2019,4,26,"iNaturalist research-grade observations","2331828782",NA
+35.093164,-106.681825,NA,"Nymphalidae","Vanessa cardui",2019,4,28,"iNaturalist research-grade observations","2331829291",NA
+35.06697,-106.611904,NA,"Nymphalidae","Vanessa cardui",2019,4,19,"iNaturalist research-grade observations","2988500354",NA
+35.12864,-106.730193,NA,"Nymphalidae","Vanessa cardui",2019,5,5,"iNaturalist research-grade observations","2242894707",NA
+35.12864,-106.730193,NA,"Nymphalidae","Euptoieta claudia",2019,5,5,"iNaturalist research-grade observations","2242895751",NA
+35.13522,-106.657419,NA,"Nymphalidae","Vanessa cardui",2019,5,16,"iNaturalist research-grade observations","2244223873",NA
+35.11135,-106.659753,NA,"Nymphalidae","Vanessa cardui",2019,5,22,"iNaturalist research-grade observations","2244312712","Adult"
+35.094371,-106.682874,NA,"Nymphalidae","Vanessa cardui",2019,5,22,"iNaturalist research-grade observations","2244313511","Adult"
+35.137917,-106.579003,NA,"Nymphalidae","Vanessa cardui",2019,5,22,"iNaturalist research-grade observations","2244315429",NA
+35.063244,-106.485491,NA,"Nymphalidae","Vanessa cardui",2019,5,22,"iNaturalist research-grade observations","2244317814",NA
+35.123242,-106.493975,NA,"Nymphalidae","Vanessa cardui",2019,5,22,"iNaturalist research-grade observations","2244318460",NA
+35.132411,-106.772263,NA,"Nymphalidae","Vanessa cardui",2019,5,27,"iNaturalist research-grade observations","2251958288","Adult"
+35.156995,-106.492774,NA,"Nymphalidae","Vanessa cardui",2019,5,27,"iNaturalist research-grade observations","2265865844","Adult"
+35.136036,-106.481995,NA,"Nymphalidae","Limenitis bredowii",2019,5,31,"iNaturalist research-grade observations","2366019047",NA
+35.098267,-106.599408,NA,"Nymphalidae","Vanessa cardui",2019,5,24,"iNaturalist research-grade observations","2397473548",NA
+35.056667,-106.573889,NA,"Nymphalidae","Vanessa cardui",2019,5,28,"iNaturalist research-grade observations","3112349846",NA
+35.093694,-106.682276,NA,"Nymphalidae","Eresia aveyrana",2019,5,6,"iNaturalist research-grade observations","3465990361",NA
+35.137008,-106.519928,NA,"Nymphalidae","Euptoieta claudia",2019,6,5,"iNaturalist research-grade observations","2252077956",NA
+35.092675,-106.681259,NA,"Nymphalidae","Danaus gilippus",2019,6,24,"iNaturalist research-grade observations","2273279052",NA
+35.119667,-106.657372,NA,"Nymphalidae","Danaus gilippus",2019,6,29,"iNaturalist research-grade observations","2283078646",NA
+35.11924,-106.657008,NA,"Nymphalidae","Euptoieta claudia",2019,6,30,"iNaturalist research-grade observations","2283097858",NA
+35.09358,-106.679259,NA,"Nymphalidae","Euptoieta claudia",2019,7,7,"iNaturalist research-grade observations","2283210486",NA
+35.083689,-106.622991,NA,"Nymphalidae","Vanessa cardui",2019,7,25,"iNaturalist research-grade observations","2294679646",NA
+35.128228,-106.728355,NA,"Nymphalidae","Euptoieta claudia",2019,7,26,"iNaturalist research-grade observations","2311321580",NA
+35.110472,-106.636991,NA,"Nymphalidae","Vanessa cardui",2019,7,23,"iNaturalist research-grade observations","2311327632",NA
+35.093203,-106.680935,NA,"Nymphalidae","Vanessa cardui",2019,7,23,"iNaturalist research-grade observations","2311329929",NA
+35.123364,-106.497316,NA,"Nymphalidae","Euptoieta claudia",2019,7,27,"iNaturalist research-grade observations","2311340693",NA
+35.083606,-106.580558,NA,"Nymphalidae","Vanessa cardui",2019,8,4,"iNaturalist research-grade observations","2331897807",NA
+35.083331,-106.62373,NA,"Nymphalidae","Vanessa cardui",2019,8,14,"iNaturalist research-grade observations","2350437589",NA
+35.081514,-106.674364,NA,"Nymphalidae","Limenitis archippus",2019,9,12,"iNaturalist research-grade observations","3031654562","Adult"
+35.136267,-106.675198,NA,"Nymphalidae","Vanessa cardui",2019,9,16,"iNaturalist research-grade observations","3468878704",NA
+35.125991,-106.734696,NA,"Nymphalidae","Euptoieta claudia",2019,10,16,"iNaturalist research-grade observations","3466159916",NA
+35.017785,-106.62913,1,"Nymphalidae","Limenitis bredowii",2018,5,27,"eButterfly","3427455224",NA
+35.017785,-106.62913,1,"Nymphalidae","Nymphalis antiopa",2018,5,27,"eButterfly","3427525243",NA
+35.017785,-106.62913,1,"Nymphalidae","Limenitis weidemeyerii",2018,5,27,"eButterfly","3427530251",NA
+35.113528,-106.489905,NA,"Nymphalidae","Vanessa virginiensis",2018,6,18,"iNaturalist research-grade observations","1913175288","Adult"
+35.113493,-106.489883,NA,"Nymphalidae","Danaus plexippus",2018,6,22,"iNaturalist research-grade observations","1913175365","Adult"
+35.164989,-106.673002,NA,"Nymphalidae","Nymphalis antiopa",2018,7,1,"iNaturalist research-grade observations","1990564525",NA
+35.081592,-106.674247,NA,"Nymphalidae","Phyciodes tharos",2018,7,4,"iNaturalist research-grade observations","1993724233",NA
+35.187057,-106.673363,NA,"Nymphalidae","Cynthia annabella",2018,9,7,"iNaturalist research-grade observations","1913192326",NA
+35.085205,-106.675915,NA,"Nymphalidae","Phyciodes tharos",2018,9,13,"iNaturalist research-grade observations","1913702253",NA
+35.081272,-106.672172,NA,"Nymphalidae","Phyciodes tharos",2018,9,13,"iNaturalist research-grade observations","1920792175",NA
+35.161358,-106.532093,NA,"Nymphalidae","Danaus plexippus",2018,9,6,"iNaturalist research-grade observations","2283148377","Adult"
+35.098939,-106.479673,NA,"Nymphalidae","Limenitis bredowii",2018,9,20,"iNaturalist research-grade observations","2901571323",NA
+35.077982,-106.508583,NA,"Nymphalidae","Limenitis bredowii",2018,10,12,"iNaturalist research-grade observations","1931487299",NA
+35.119644,-106.65721,NA,"Nymphalidae","Danaus gilippus",2018,10,13,"iNaturalist research-grade observations","1931494096","Adult"
+35.119736,-106.65732,NA,"Nymphalidae","Libytheana carinenta",2018,10,29,"iNaturalist research-grade observations","1933575056",NA
+35.080584,-106.671517,1,"Nymphalidae","Nymphalis antiopa",2017,2,11,"eButterfly","3397453303",NA
+35.099722,-106.47166,24,"Nymphalidae","Vanessa cardui",2017,4,8,"eButterfly","3397642351",NA
+35.115628,-106.642102,NA,"Nymphalidae","Vanessa cardui",2017,5,26,"iNaturalist research-grade observations","1563423234","Adult"
+35.146863,-106.600342,NA,"Nymphalidae","Danaus plexippus",2017,5,29,"iNaturalist research-grade observations","1563448565","Adult"
+35.128677,-106.682871,NA,"Nymphalidae","Vanessa cardui",2017,5,7,"iNaturalist research-grade observations","1586093530",NA
+35.080406,-106.670792,NA,"Nymphalidae","Nymphalis antiopa",2017,5,21,"iNaturalist research-grade observations","1802718748",NA
+35.119606,-106.657353,NA,"Nymphalidae","Vanessa cardui",2017,5,25,"iNaturalist research-grade observations","1850959672",NA
+35.155144,-106.784609,NA,"Nymphalidae","Vanessa cardui",2017,6,19,"iNaturalist research-grade observations","1571164525","Adult"
+35.094497,-106.492125,NA,"Nymphalidae","Euptoieta claudia",2017,7,4,"iNaturalist research-grade observations","1703193118",NA
+35.103445,-106.616459,NA,"Nymphalidae","Vanessa cardui",2017,7,27,"iNaturalist research-grade observations","3384932865",NA
+35.103584,-106.617486,1,"Nymphalidae","Vanessa cardui",2017,7,27,"eButterfly","3397443561",NA
+35.085334,-106.605553,0,"Nymphalidae","Junonia genoveva",2017,8,13,"eButterfly","3397443724",NA
+35.085334,-106.605553,1,"Nymphalidae","Chlosyne lacinia",2017,8,13,"eButterfly","3397449741",NA
+35.085334,-106.605553,9,"Nymphalidae","Danaus plexippus",2017,8,13,"eButterfly","3397468741",NA
+35.085334,-106.605553,3,"Nymphalidae","Vanessa cardui",2017,8,13,"eButterfly","3397650741",NA
+35.085334,-106.605553,150,"Nymphalidae","Junonia coenia",2017,8,13,"eButterfly","3397674733",NA
+35.080356,-106.671806,NA,"Nymphalidae","Nymphalis antiopa",2016,3,20,"iNaturalist research-grade observations","1802718766",NA
+35.126122,-106.729294,NA,"Nymphalidae","Euptoieta claudia",2016,6,19,"iNaturalist research-grade observations","1802718771",NA
+35.085834,-106.673663,NA,"Nymphalidae","Danaus plexippus",2016,8,10,"iNaturalist research-grade observations","1457620526",NA
+35.128677,-106.682871,NA,"Nymphalidae","Anaea andria",2016,8,6,"iNaturalist research-grade observations","1580489903",NA
+35.119489,-106.6572,NA,"Nymphalidae","Danaus plexippus",2016,10,13,"iNaturalist research-grade observations","1850959354","Adult"
+35.09115,-106.744097,NA,"Nymphalidae","Vanessa cardui",2015,7,3,"iNaturalist research-grade observations","1703210718",NA
+35.119553,-106.657207,NA,"Nymphalidae","Danaus gilippus",2015,10,27,"iNaturalist research-grade observations","1880502362",NA
+35.084386,-106.650422,NA,"Nymphalidae","Nymphalis antiopa",2014,7,18,"iNaturalist research-grade observations","3090775015","Adult"
+35.159337,-106.477647,NA,"Nymphalidae","Limenitis bredowii",2014,8,31,"iNaturalist research-grade observations","1640133968",NA
+35.061011,-106.588373,NA,"Nymphalidae",NA,2014,9,1,"iNaturalist research-grade observations","1990520688","Adult"
+35.09895,-106.479642,1,"Nymphalidae","Cyllopsis pertepida",2013,8,24,"eButterfly","3397437438",NA
+35.09895,-106.479642,1,"Nymphalidae","Euptoieta claudia",2013,8,24,"eButterfly","3397458378",NA
+35.088667,-106.602667,NA,"Nymphalidae","Danaus plexippus",2013,9,15,"iNaturalist research-grade observations","3070612968","Adult"
+35.099437,-106.479715,NA,"Nymphalidae","Euptoieta claudia",2013,10,13,"iNaturalist research-grade observations","891751075","Adult"
+35.079333,-106.483833,NA,"Nymphalidae","Vanessa cardui",2012,5,14,"iNaturalist research-grade observations","3070546358",NA
+35.093209,-106.679584,NA,"Nymphalidae","Polygonia interrogationis",2012,8,1,"iNaturalist research-grade observations","3112288400",NA
+35.130475,-106.682845,NA,"Nymphalidae","Phyciodes tharos",2011,4,21,"iNaturalist research-grade observations","3466293521",NA
+35.085009,-106.621971,1,"Nymphalidae","Cynthia annabella",2011,8,15,"eButterfly","3397502748",NA
+35.08083,-106.671839,1,"Nymphalidae","Eresia aveyrana",2011,8,29,"eButterfly","3397580737",NA
+35.130017,-106.684155,1,"Nymphalidae","Danaus plexippus",2011,8,27,"eButterfly","3397592389",NA
+35.08083,-106.671839,1,"Nymphalidae","Euptoieta claudia",2011,9,29,"eButterfly","3397358749",NA
+35.130204,-106.683043,NA,"Nymphalidae","Anthanassa texana",2010,7,2,"iNaturalist research-grade observations","1500311966",NA
+35.094178,-106.683645,NA,"Nymphalidae","Phyciodes tharos",2010,7,3,"iNaturalist research-grade observations","2013013089",NA
+35.125049,-106.732373,NA,"Nymphalidae","Euptoieta claudia",2007,5,14,"iNaturalist research-grade observations","3456880462",NA
+35.085079,-106.622422,1,"Nymphalidae","Nymphalis antiopa",2005,3,2,"eButterfly","3397425907",NA
+35.130017,-106.684155,1,"Nymphalidae","Vanessa cardui",2005,10,28,"eButterfly","3397627994",NA
+35.119797,-106.484398,NA,"Papilionidae","Papilio multicaudata",2022,3,27,"iNaturalist research-grade observations","3759212199",NA
+35.097725,-106.571288,NA,"Papilionidae","Papilio multicaudata",2022,4,20,"iNaturalist research-grade observations","3759555543",NA
+35.165169,-106.672282,NA,"Papilionidae","Papilio multicaudata",2022,4,7,"iNaturalist research-grade observations","3759935227",NA
+35.140419,-106.714401,NA,"Papilionidae","Papilio multicaudata",2022,4,15,"iNaturalist research-grade observations","3760037009",NA
+35.083903,-106.654885,NA,"Papilionidae","Papilio multicaudata",2022,4,20,"iNaturalist research-grade observations","3760111750",NA
+35.123878,-106.676103,NA,"Papilionidae","Papilio multicaudata",2022,4,24,"iNaturalist research-grade observations","3764392087",NA
+35.085251,-106.616725,NA,"Papilionidae","Papilio multicaudata",2022,4,30,"iNaturalist research-grade observations","3772966291",NA
+35.122936,-106.663445,NA,"Papilionidae","Papilio polibetes",2022,4,29,"iNaturalist research-grade observations","3773038206",NA
+35.093203,-106.680935,NA,"Papilionidae","Papilio polibetes",2022,5,1,"iNaturalist research-grade observations","3772475674",NA
+35.084956,-106.623111,NA,"Papilionidae","Papilio multicaudata",2022,5,2,"iNaturalist research-grade observations","3772528572",NA
+35.084928,-106.623162,NA,"Papilionidae","Papilio multicaudata",2022,5,4,"iNaturalist research-grade observations","3772844774",NA
+35.084903,-106.62307,NA,"Papilionidae","Papilio multicaudata",2022,5,2,"iNaturalist research-grade observations","3772855557",NA
+35.08522,-106.614988,NA,"Papilionidae","Papilio multicaudata",2022,5,2,"iNaturalist research-grade observations","3772869503",NA
+35.206743,-106.727814,NA,"Papilionidae","Papilio multicaudata",2022,5,3,"iNaturalist research-grade observations","3772874827",NA
+35.084965,-106.623093,NA,"Papilionidae","Papilio multicaudata",2022,5,2,"iNaturalist research-grade observations","3772953744","Adult"
+35.083961,-106.619635,NA,"Papilionidae","Papilio multicaudata",2022,5,2,"iNaturalist research-grade observations","3773075552",NA
+35.136258,-106.651192,NA,"Papilionidae","Papilio polibetes",2022,5,2,"iNaturalist research-grade observations","3773103712",NA
+35.085173,-106.622863,NA,"Papilionidae","Papilio multicaudata",2022,5,2,"iNaturalist research-grade observations","3773236054",NA
+35.084944,-106.623157,NA,"Papilionidae","Papilio multicaudata",2022,5,2,"iNaturalist research-grade observations","3773559504",NA
+35.135971,-106.48192,NA,"Papilionidae","Papilio multicaudata",2022,5,2,"iNaturalist research-grade observations","3773655987",NA
+35.21075,-106.671065,NA,"Papilionidae","Papilio multicaudata",2022,5,13,"iNaturalist research-grade observations","3784706563",NA
+35.122529,-106.525309,NA,"Papilionidae","Papilio multicaudata",2022,5,18,"iNaturalist research-grade observations","3785184695","Adult"
+35.093278,-106.680245,NA,"Papilionidae","Papilio multicaudata",2021,4,7,"iNaturalist research-grade observations","3090579094",NA
+35.129717,-106.685094,NA,"Papilionidae","Papilio multicaudata",2021,5,2,"iNaturalist research-grade observations","3112874185",NA
+35.182083,-106.550292,NA,"Papilionidae","Papilio multicaudata",2021,6,16,"iNaturalist research-grade observations","3314222264",NA
+35.178253,-106.683758,NA,"Papilionidae","Papilio multicaudata",2021,6,14,"iNaturalist research-grade observations","3399049659","Larva"
+35.09147,-106.624931,NA,"Papilionidae","Papilio multicaudata",2021,7,6,"iNaturalist research-grade observations","3325577225",NA
+35.093536,-106.682397,NA,"Papilionidae","Papilio polibetes",2021,7,5,"iNaturalist research-grade observations","3325581161",NA
+35.101795,-106.567863,NA,"Papilionidae","Papilio multicaudata",2021,7,12,"iNaturalist research-grade observations","3327888229",NA
+35.085667,-106.65918,NA,"Papilionidae","Papilio multicaudata",2021,7,21,"iNaturalist research-grade observations","3330906468",NA
+35.071576,-106.60709,NA,"Papilionidae","Papilio multicaudata",2021,7,23,"iNaturalist research-grade observations","3333163681","Larva"
+35.055595,-106.585913,NA,"Papilionidae","Papilio multicaudata",2021,7,30,"iNaturalist research-grade observations","3335384678",NA
+35.202247,-106.728445,NA,"Papilionidae","Papilio multicaudata",2021,8,2,"iNaturalist research-grade observations","3335419205",NA
+35.112606,-106.551445,NA,"Papilionidae","Papilio multicaudata",2021,8,9,"iNaturalist research-grade observations","3337379908",NA
+35.099974,-106.491147,NA,"Papilionidae","Papilio multicaudata",2021,8,9,"iNaturalist research-grade observations","3337671375",NA
+35.182145,-106.482078,NA,"Papilionidae","Papilio multicaudata",2021,8,4,"iNaturalist research-grade observations","3337717327",NA
+35.054631,-106.584945,NA,"Papilionidae","Papilio multicaudata",2021,8,11,"iNaturalist research-grade observations","3337757606",NA
+35.155391,-106.702509,NA,"Papilionidae","Papilio polibetes",2021,8,11,"iNaturalist research-grade observations","3337836905",NA
+35.136956,-106.538942,NA,"Papilionidae","Papilio multicaudata",2021,8,13,"iNaturalist research-grade observations","3337914259",NA
+35.214325,-106.722825,NA,"Papilionidae","Papilio multicaudata",2021,8,25,"iNaturalist research-grade observations","3343936141",NA
+35.138722,-106.491805,NA,"Papilionidae","Papilio multicaudata",2021,8,27,"iNaturalist research-grade observations","3355513938","Adult"
+35.084015,-106.623773,NA,"Papilionidae","Papilio multicaudata",2021,8,25,"iNaturalist research-grade observations","3355532966",NA
+35.084265,-106.650422,NA,"Papilionidae","Papilio multicaudata",2021,8,31,"iNaturalist research-grade observations","3355679439","Larva"
+35.172201,-106.511826,NA,"Papilionidae","Papilio multicaudata",2021,8,8,"iNaturalist research-grade observations","3391317807",NA
+35.107564,-106.740363,NA,"Papilionidae","Papilio polibetes",2021,8,24,"iNaturalist research-grade observations","3391335518",NA
+35.084724,-106.650422,NA,"Papilionidae","Papilio multicaudata",2021,9,9,"iNaturalist research-grade observations","3355294526",NA
+35.048588,-106.483817,NA,"Papilionidae","Papilio multicaudata",2021,9,2,"iNaturalist research-grade observations","3355567836","Larva"
+35.095332,-106.615598,NA,"Papilionidae","Papilio multicaudata",2021,9,7,"iNaturalist research-grade observations","3355614309","Larva"
+35.132978,-106.670319,NA,"Papilionidae","Papilio multicaudata",2021,9,8,"iNaturalist research-grade observations","3355694407","Larva"
+35.081751,-106.617068,NA,"Papilionidae","Papilio multicaudata",2021,9,23,"iNaturalist research-grade observations","3384034031",NA
+35.085167,-106.637222,NA,"Papilionidae","Papilio multicaudata",2021,9,24,"iNaturalist research-grade observations","3384133208",NA
+35.129385,-106.549356,NA,"Papilionidae","Papilio multicaudata",2021,9,21,"iNaturalist research-grade observations","3384380813",NA
+35.071269,-106.607748,NA,"Papilionidae","Papilio multicaudata",2021,9,11,"iNaturalist research-grade observations","3384393457",NA
+35.08297,-106.622635,NA,"Papilionidae","Papilio multicaudata",2021,9,13,"iNaturalist research-grade observations","3384698848",NA
+35.193876,-106.692115,NA,"Papilionidae","Papilio polibetes",2021,9,12,"iNaturalist research-grade observations","3384981650","Larva"
+35.083958,-106.650178,NA,"Papilionidae","Papilio multicaudata",2021,9,4,"iNaturalist research-grade observations","3385108146","Adult"
+35.084691,-106.624073,NA,"Papilionidae","Papilio multicaudata",2021,9,14,"iNaturalist research-grade observations","3385129859",NA
+35.050435,-106.596841,NA,"Papilionidae","Papilio multicaudata",2021,9,29,"iNaturalist research-grade observations","3398934608","Larva"
+35.082925,-106.620588,NA,"Papilionidae","Papilio multicaudata",2021,9,27,"iNaturalist research-grade observations","3456954673",NA
+35.084386,-106.650422,NA,"Papilionidae","Papilio multicaudata",2021,9,5,"iNaturalist research-grade observations","3759703697",NA
+35.157761,-106.521236,NA,"Papilionidae","Papilio multicaudata",2021,10,8,"iNaturalist research-grade observations","3391367671",NA
+35.081704,-106.619936,NA,"Papilionidae","Papilio multicaudata",2021,10,10,"iNaturalist research-grade observations","3391375887",NA
+35.089665,-106.529745,NA,"Papilionidae","Papilio multicaudata",2021,10,13,"iNaturalist research-grade observations","3391511229",NA
+35.098211,-106.672139,NA,"Papilionidae","Papilio multicaudata",2021,10,9,"iNaturalist research-grade observations","3391702783",NA
+35.080403,-106.494422,NA,"Papilionidae",NA,2021,10,28,"iNaturalist research-grade observations","3407966726",NA
+35.150957,-106.747054,NA,"Papilionidae","Papilio multicaudata",2021,10,10,"iNaturalist research-grade observations","3415506984",NA
+35.150957,-106.747054,NA,"Papilionidae","Papilio multicaudata",2021,10,9,"iNaturalist research-grade observations","3455525490",NA
+35.150095,-106.618837,NA,"Papilionidae","Papilio multicaudata",2021,10,19,"iNaturalist research-grade observations","3455621713","Larva"
+35.095056,-106.621127,NA,"Papilionidae","Papilio multicaudata",2021,10,7,"iNaturalist research-grade observations","3760060722",NA
+35.084503,-106.609055,NA,"Papilionidae","Papilio multicaudata",2020,4,21,"iNaturalist research-grade observations","2609291881",NA
+35.084556,-106.60897,NA,"Papilionidae","Papilio multicaudata",2020,4,21,"iNaturalist research-grade observations","2609296024",NA
+35.089947,-106.591833,NA,"Papilionidae","Papilio multicaudata",2020,4,11,"iNaturalist research-grade observations","2611038075",NA
+35.129642,-106.605611,NA,"Papilionidae","Papilio multicaudata",2020,4,26,"iNaturalist research-grade observations","2611365658",NA
+35.183853,-106.669158,NA,"Papilionidae","Papilio multicaudata",2020,5,8,"iNaturalist research-grade observations","2626145893",NA
+35.182175,-106.562112,NA,"Papilionidae","Papilio multicaudata",2020,5,30,"iNaturalist research-grade observations","2634100479",NA
+35.101167,-106.602783,NA,"Papilionidae","Papilio polibetes",2020,5,15,"iNaturalist research-grade observations","2634147997","Adult"
+35.101136,-106.602775,NA,"Papilionidae","Papilio polibetes",2020,5,28,"iNaturalist research-grade observations","2634326613","Larva"
+35.101222,-106.60273,NA,"Papilionidae","Papilio polibetes",2020,5,31,"iNaturalist research-grade observations","2634435003","Larva"
+35.079211,-106.629188,NA,"Papilionidae","Papilio polibetes",2020,5,30,"iNaturalist research-grade observations","2802558712",NA
+35.079197,-106.629325,NA,"Papilionidae","Papilio multicaudata",2020,5,25,"iNaturalist research-grade observations","3325578342","Larva"
+35.12318,-106.497451,NA,"Papilionidae","Papilio multicaudata",2020,6,29,"iNaturalist research-grade observations","2814050751","Adult"
+35.160939,-106.526292,NA,"Papilionidae","Papilio multicaudata",2020,6,6,"iNaturalist research-grade observations","2850963589",NA
+35.166432,-106.697386,NA,"Papilionidae","Papilio multicaudata",2020,6,21,"iNaturalist research-grade observations","2984547397","Adult"
+35.175242,-106.492297,NA,"Papilionidae","Papilio polibetes",2020,7,18,"iNaturalist research-grade observations","2868082683","Larva"
+35.116839,-106.504564,NA,"Papilionidae","Papilio multicaudata",2020,7,4,"iNaturalist research-grade observations","3113670889",NA
+35.098258,-106.598878,NA,"Papilionidae","Papilio multicaudata",2020,8,7,"iNaturalist research-grade observations","2850704697",NA
+35.06551,-106.648286,NA,"Papilionidae","Papilio multicaudata",2020,8,8,"iNaturalist research-grade observations","2850840914","Adult"
+35.210424,-106.670875,NA,"Papilionidae","Papilio multicaudata",2020,8,10,"iNaturalist research-grade observations","2850903448",NA
+35.124458,-106.490638,NA,"Papilionidae","Papilio multicaudata",2020,8,10,"iNaturalist research-grade observations","2851070264",NA
+35.112466,-106.577131,NA,"Papilionidae","Papilio multicaudata",2020,8,3,"iNaturalist research-grade observations","2864767465","Larva"
+35.166415,-106.697461,NA,"Papilionidae","Papilio multicaudata",2020,8,23,"iNaturalist research-grade observations","3330682374",NA
+35.085256,-106.667747,NA,"Papilionidae","Papilio multicaudata",2020,8,8,"iNaturalist research-grade observations","3759772478","Adult"
+35.099991,-106.480183,NA,"Papilionidae","Papilio multicaudata",2020,9,24,"iNaturalist research-grade observations","3044569671","Larva"
+35.084386,-106.650422,NA,"Papilionidae","Battus philenor",2020,10,21,"iNaturalist research-grade observations","2901679208",NA
+35.082081,-106.482679,NA,"Papilionidae","Papilio multicaudata",2019,4,29,"iNaturalist research-grade observations","2238991467",NA
+35.094795,-106.60421,NA,"Papilionidae","Papilio multicaudata",2019,4,24,"iNaturalist research-grade observations","2366014927",NA
+35.098711,-106.478589,NA,"Papilionidae","Papilio multicaudata",2019,4,26,"iNaturalist research-grade observations","2366015072",NA
+35.084407,-106.622107,NA,"Papilionidae","Papilio multicaudata",2019,4,29,"iNaturalist research-grade observations","3067800553",NA
+35.094208,-106.6836,NA,"Papilionidae","Papilio multicaudata",2019,5,12,"iNaturalist research-grade observations","2243004808",NA
+35.098122,-106.599694,NA,"Papilionidae","Papilio multicaudata",2019,5,3,"iNaturalist research-grade observations","2265794363",NA
+35.217194,-106.71591,NA,"Papilionidae","Papilio multicaudata",2019,5,24,"iNaturalist research-grade observations","2459997251",NA
+35.144861,-106.51866,NA,"Papilionidae","Papilio multicaudata",2019,6,3,"iNaturalist research-grade observations","2265803795",NA
+35.155495,-106.702466,NA,"Papilionidae","Papilio polibetes",2019,6,10,"iNaturalist research-grade observations","2265862760",NA
+35.13866,-106.491875,NA,"Papilionidae","Papilio polibetes",2019,6,16,"iNaturalist research-grade observations","2283030975",NA
+35.076314,-106.602105,NA,"Papilionidae","Papilio multicaudata",2019,6,25,"iNaturalist research-grade observations","2609238049",NA
+35.172981,-106.680467,NA,"Papilionidae","Papilio polibetes",2019,7,4,"iNaturalist research-grade observations","2283161841",NA
+35.093203,-106.680935,NA,"Papilionidae","Papilio polibetes",2019,7,23,"iNaturalist research-grade observations","2311328731",NA
+35.093203,-106.680935,NA,"Papilionidae","Papilio multicaudata",2019,7,23,"iNaturalist research-grade observations","2311330527",NA
+35.150203,-106.526458,NA,"Papilionidae","Papilio multicaudata",2019,7,27,"iNaturalist research-grade observations","2597745749",NA
+35.110584,-106.545925,NA,"Papilionidae","Papilio multicaudata",2019,7,21,"iNaturalist research-grade observations","2597855765",NA
+35.089646,-106.53093,NA,"Papilionidae","Papilio polibetes",2019,7,15,"iNaturalist research-grade observations","2802593448",NA
+35.123911,-106.672988,NA,"Papilionidae","Papilio polibetes",2019,7,8,"iNaturalist research-grade observations","3039147410",NA
+35.085622,-106.619867,NA,"Papilionidae","Papilio multicaudata",2019,8,14,"iNaturalist research-grade observations","2350429787",NA
+35.084447,-106.620483,NA,"Papilionidae","Papilio multicaudata",2019,8,9,"iNaturalist research-grade observations","2366035050",NA
+35.113038,-106.48407,NA,"Papilionidae","Papilio multicaudata",2019,8,8,"iNaturalist research-grade observations","3112621563",NA
+35.104668,-106.620392,1,"Papilionidae","Papilio multicaudata",2019,8,15,"eButterfly","3397664990",NA
+35.155411,-106.702499,NA,"Papilionidae","Papilio polibetes",2018,7,1,"iNaturalist research-grade observations","1883467282",NA
+35.113388,-106.489905,NA,"Papilionidae","Papilio multicaudata",2018,7,17,"iNaturalist research-grade observations","1913175705",NA
+35.084386,-106.650422,NA,"Papilionidae","Papilio multicaudata",2018,7,11,"iNaturalist research-grade observations","3090611010",NA
+35.084386,-106.650422,NA,"Papilionidae","Papilio multicaudata",2018,8,17,"iNaturalist research-grade observations","2634435991",NA
+35.187107,-106.673241,NA,"Papilionidae","Papilio multicaudata",2018,9,12,"iNaturalist research-grade observations","1913665505","Larva"
+35.093602,-106.513065,NA,"Papilionidae","Papilio multicaudata",2018,10,1,"iNaturalist research-grade observations","2366010837","Larva"
+35.088084,-106.602913,NA,"Papilionidae","Papilio rutulus",2017,4,30,"iNaturalist research-grade observations","1584433292",NA
+35.099722,-106.47166,1,"Papilionidae","Papilio multicaudata",2017,4,8,"eButterfly","3397638381",NA
+35.128008,-106.560964,NA,"Papilionidae","Papilio multicaudata",2017,6,30,"iNaturalist research-grade observations","1831141808","Adult"
+35.093332,-106.681745,NA,"Papilionidae","Papilio multicaudata",2017,9,17,"iNaturalist research-grade observations","1668822798",NA
+35.091454,-106.635662,NA,"Papilionidae","Papilio multicaudata",2016,6,18,"iNaturalist research-grade observations","1291672949",NA
+35.093301,-106.679551,NA,"Papilionidae","Papilio polibetes",2016,7,2,"iNaturalist research-grade observations","1668801793",NA
+35.136353,-106.618613,NA,"Papilionidae","Papilio multicaudata",2016,8,14,"iNaturalist research-grade observations","1305159916",NA
+35.130017,-106.684155,1,"Papilionidae","Papilio multicaudata",2016,8,13,"eButterfly","3397458344",NA
+35.097917,-106.66625,NA,"Papilionidae","Papilio multicaudata",2015,6,19,"iNaturalist research-grade observations","1920791553",NA
+35.119556,-106.657405,NA,"Papilionidae","Papilio multicaudata",2015,6,19,"iNaturalist research-grade observations","1946191742",NA
+35.138437,-106.504744,NA,"Papilionidae","Papilio multicaudata",2015,8,13,"iNaturalist research-grade observations","2557800885","Adult"
+35.170402,-106.557378,NA,"Papilionidae","Papilio rutulus",2014,4,24,"iNaturalist research-grade observations","2868256578",NA
+35.074396,-106.61077,1,"Papilionidae","Papilio multicaudata",2014,6,12,"eButterfly","3397563980",NA
+35.085722,-106.654158,1,"Papilionidae","Papilio multicaudata",2014,6,12,"eButterfly","3397564064",NA
+35.085722,-106.654158,1,"Papilionidae","Papilio rutulus",2014,6,27,"eButterfly","3427429683",NA
+35.084386,-106.650422,NA,"Papilionidae","Papilio multicaudata",2014,7,18,"iNaturalist research-grade observations","3090782048",NA
+35.084386,-106.650422,NA,"Papilionidae","Papilio multicaudata",2014,7,18,"iNaturalist research-grade observations","3090797016",NA
+35.068558,-106.637733,NA,"Papilionidae","Papilio multicaudata",2014,8,20,"iNaturalist research-grade observations","2603370114",NA
+35.09895,-106.479642,2,"Papilionidae","Papilio multicaudata",2013,8,24,"eButterfly","3397446388",NA
+35.097496,-106.476617,NA,"Papilionidae","Papilio rutulus",2012,6,6,"iNaturalist research-grade observations","891055480","Adult"
+35.085009,-106.621971,2,"Papilionidae","Papilio multicaudata",2011,8,15,"eButterfly","3397358747",NA
+35.129882,-106.684349,NA,"Papilionidae","Papilio polibetes",2010,7,11,"iNaturalist research-grade observations","1880668074","Larva"
+35.148479,-106.563228,NA,"Papilionidae","Papilio polibetes",2008,6,7,"iNaturalist research-grade observations","3383852195",NA
+35.120689,-106.487735,NA,"Pieridae","Anthocharis thoosa",2022,3,26,"iNaturalist research-grade observations","3759125027",NA
+35.119895,-106.483781,NA,"Pieridae","Anthocharis thoosa",2022,3,28,"iNaturalist research-grade observations","3759169273",NA
+35.104673,-106.620139,NA,"Pieridae","Pieris rapae",2022,3,31,"iNaturalist research-grade observations","3759260588",NA
+35.045663,-106.482029,NA,"Pieridae","Pontia protodice",2022,4,3,"iNaturalist research-grade observations","3759263886",NA
+35.045663,-106.482029,NA,"Pieridae","Pontia protodice",2022,4,3,"iNaturalist research-grade observations","3759454066",NA
+35.112131,-106.482299,NA,"Pieridae","Pontia sisymbrii",2022,4,11,"iNaturalist research-grade observations","3759614665",NA
+35.07342,-106.596667,NA,"Pieridae","Pieris rapae",2022,4,15,"iNaturalist research-grade observations","3760208987",NA
+35.186507,-106.575666,NA,"Pieridae","Pieris rapae",2022,4,2,"iNaturalist research-grade observations","3760281729",NA
+35.092433,-106.620214,NA,"Pieridae","Colias eurytheme",2022,4,23,"iNaturalist research-grade observations","3764239649",NA
+35.062031,-106.578648,NA,"Pieridae","Pontia protodice",2022,4,28,"iNaturalist research-grade observations","3764516289",NA
+35.135988,-106.48199,NA,"Pieridae","Pontia sisymbrii",2022,4,28,"iNaturalist research-grade observations","3764638350",NA
+35.117754,-106.664985,NA,"Pieridae","Pieris rapae",2022,5,2,"iNaturalist research-grade observations","3772716462",NA
+35.08237,-106.62378,NA,"Pieridae","Abaeis nicippe",2022,5,2,"iNaturalist research-grade observations","3772890843",NA
+35.080173,-106.671578,NA,"Pieridae","Colias eurytheme",2022,5,6,"iNaturalist research-grade observations","3773247993",NA
+35.084958,-106.618983,NA,"Pieridae","Abaeis nicippe",2022,5,2,"iNaturalist research-grade observations","3773334966",NA
+35.131005,-106.684571,NA,"Pieridae","Nathalis iole",2022,5,1,"iNaturalist research-grade observations","3773572480",NA
+35.117203,-106.66044,NA,"Pieridae","Pieris rapae",2021,5,1,"iNaturalist research-grade observations","3112325131",NA
+35.035629,-106.740792,NA,"Pieridae","Colias eurytheme",2021,5,3,"iNaturalist research-grade observations","3112482648","Adult"
+35.078339,-106.644083,NA,"Pieridae","Pieris rapae",2021,5,9,"iNaturalist research-grade observations","3113506603",NA
+35.09694,-106.47452,NA,"Pieridae","Pontia protodice",2021,5,15,"iNaturalist research-grade observations","3118457716",NA
+35.099686,-106.545233,NA,"Pieridae","Nathalis iole",2021,6,16,"iNaturalist research-grade observations","3314172928",NA
+35.093389,-106.58428,NA,"Pieridae","Nathalis iole",2021,6,25,"iNaturalist research-grade observations","3321060705",NA
+35.135606,-106.530175,NA,"Pieridae","Nathalis iole",2021,6,16,"iNaturalist research-grade observations","3333088453",NA
+35.107053,-106.579265,NA,"Pieridae","Pontia protodice",2021,6,16,"iNaturalist research-grade observations","3455646303",NA
+35.077199,-106.63242,NA,"Pieridae","Pieris rapae",2021,7,4,"iNaturalist research-grade observations","3325584945",NA
+35.05467,-106.585053,NA,"Pieridae","Abaeis nicippe",2021,7,9,"iNaturalist research-grade observations","3328017670",NA
+35.081197,-106.672506,NA,"Pieridae","Colias eurytheme",2021,7,21,"iNaturalist research-grade observations","3330720400",NA
+35.094665,-106.622411,NA,"Pieridae","Nathalis iole",2021,8,14,"iNaturalist research-grade observations","3337902324",NA
+35.053272,-106.586088,NA,"Pieridae","Colias philodice",2021,8,19,"iNaturalist research-grade observations","3343700860",NA
+35.190057,-106.560918,NA,"Pieridae","Nathalis iole",2021,8,22,"iNaturalist research-grade observations","3344059363",NA
+35.065626,-106.646699,NA,"Pieridae","Abaeis nicippe",2021,8,24,"iNaturalist research-grade observations","3355024858","Adult"
+35.001862,-106.620253,NA,"Pieridae","Colias philodice",2021,8,30,"iNaturalist research-grade observations","3355402348",NA
+35.104152,-106.619909,NA,"Pieridae","Abaeis nicippe",2021,8,23,"iNaturalist research-grade observations","3355466074",NA
+35.077983,-106.62468,NA,"Pieridae","Pieris rapae",2021,8,23,"iNaturalist research-grade observations","3415839905",NA
+35.132995,-106.542203,NA,"Pieridae","Pieris rapae",2021,8,4,"iNaturalist research-grade observations","3466145669","Adult"
+35.094353,-106.622048,NA,"Pieridae","Nathalis iole",2021,8,22,"iNaturalist research-grade observations","3802378405",NA
+35.1367,-106.537033,NA,"Pieridae","Pieris rapae",2021,9,8,"iNaturalist research-grade observations","3355225400",NA
+35.072772,-106.521651,NA,"Pieridae","Colias eurytheme",2021,9,4,"iNaturalist research-grade observations","3355599926",NA
+35.067325,-106.635925,NA,"Pieridae","Nathalis iole",2021,9,9,"iNaturalist research-grade observations","3355647563",NA
+35.184636,-106.575043,NA,"Pieridae","Colias philodice",2021,9,11,"iNaturalist research-grade observations","3383978535",NA
+35.101774,-106.486155,NA,"Pieridae","Nathalis iole",2021,9,11,"iNaturalist research-grade observations","3384011547",NA
+35.081189,-106.67302,NA,"Pieridae","Nathalis iole",2021,9,20,"iNaturalist research-grade observations","3384015807",NA
+35.085597,-106.623597,NA,"Pieridae","Colias philodice",2021,9,29,"iNaturalist research-grade observations","3384172750",NA
+35.080007,-106.670352,NA,"Pieridae","Nathalis iole",2021,9,20,"iNaturalist research-grade observations","3384431702",NA
+35.082968,-106.62163,NA,"Pieridae","Pontia protodice",2021,9,15,"iNaturalist research-grade observations","3384716034",NA
+35.07998,-106.670411,NA,"Pieridae","Nathalis iole",2021,9,20,"iNaturalist research-grade observations","3384763673",NA
+35.080657,-106.671027,NA,"Pieridae","Nathalis iole",2021,9,20,"iNaturalist research-grade observations","3384788727",NA
+35.128897,-106.686018,NA,"Pieridae","Pontia protodice",2021,9,25,"iNaturalist research-grade observations","3384845207",NA
+35.086708,-106.490807,NA,"Pieridae","Nathalis iole",2021,9,30,"iNaturalist research-grade observations","3384901825",NA
+35.143901,-106.657103,NA,"Pieridae","Colias eurytheme",2021,9,5,"iNaturalist research-grade observations","3398877801",NA
+35.081153,-106.673033,NA,"Pieridae","Pontia protodice",2021,9,20,"iNaturalist research-grade observations","3455858703",NA
+35.134427,-106.568552,NA,"Pieridae","Nathalis iole",2021,10,3,"iNaturalist research-grade observations","3384091260",NA
+35.135178,-106.527908,NA,"Pieridae","Nathalis iole",2021,10,5,"iNaturalist research-grade observations","3384140401",NA
+35.080485,-106.669913,NA,"Pieridae","Colias eurytheme",2021,10,1,"iNaturalist research-grade observations","3384159095",NA
+35.10496,-106.613943,NA,"Pieridae","Pontia protodice",2021,10,2,"iNaturalist research-grade observations","3384860105",NA
+35.129776,-106.684763,NA,"Pieridae","Pontia protodice",2021,10,5,"iNaturalist research-grade observations","3385230415",NA
+35.129167,-106.682578,NA,"Pieridae","Pieris rapae",2021,10,2,"iNaturalist research-grade observations","3391288070",NA
+35.129785,-106.684772,NA,"Pieridae","Pieris rapae",2021,10,3,"iNaturalist research-grade observations","3391303573",NA
+35.135528,-106.5297,NA,"Pieridae","Pontia protodice",2021,10,8,"iNaturalist research-grade observations","3391325661",NA
+35.085251,-106.67227,NA,"Pieridae","Colias eurytheme",2021,10,7,"iNaturalist research-grade observations","3391490625",NA
+35.128906,-106.682092,NA,"Pieridae","Colias philodice",2021,10,2,"iNaturalist research-grade observations","3391523069",NA
+35.12925,-106.681236,NA,"Pieridae","Nathalis iole",2021,10,2,"iNaturalist research-grade observations","3391696043",NA
+35.137142,-106.520028,NA,"Pieridae","Nathalis iole",2021,10,15,"iNaturalist research-grade observations","3398741029",NA
+35.131812,-106.683835,NA,"Pieridae","Nathalis iole",2021,10,23,"iNaturalist research-grade observations","3398853833",NA
+35.137464,-106.54162,NA,"Pieridae","Pontia protodice",2021,10,24,"iNaturalist research-grade observations","3398939996",NA
+35.099206,-106.472145,NA,"Pieridae","Pontia protodice",2021,10,14,"iNaturalist research-grade observations","3399096953",NA
+35.188035,-106.488098,NA,"Pieridae","Nathalis iole",2021,10,16,"iNaturalist research-grade observations","3399360338",NA
+35.097178,-106.619836,NA,"Pieridae","Nathalis iole",2021,10,30,"iNaturalist research-grade observations","3408052895",NA
+35.06847,-106.658803,NA,"Pieridae","Nathalis iole",2021,10,31,"iNaturalist research-grade observations","3408242941",NA
+35.099237,-106.472427,NA,"Pieridae","Colias eurytheme",2021,10,14,"iNaturalist research-grade observations","3415678865",NA
+35.130475,-106.682845,15,"Pieridae","Nathalis iole",2021,10,2,"eButterfly","3427482893",NA
+35.130475,-106.682845,10,"Pieridae","Colias philodice",2021,10,2,"eButterfly","3427494894",NA
+35.130475,-106.682845,6,"Pieridae","Pieris rapae",2021,10,2,"eButterfly","3427496890",NA
+35.10468,-106.620367,1,"Pieridae","Abaeis nicippe",2021,10,18,"eButterfly","3427496907",NA
+35.112238,-106.657627,NA,"Pieridae","Pieris rapae",2021,10,7,"iNaturalist research-grade observations","3457047547",NA
+35.137017,-106.532167,NA,"Pieridae","Nathalis iole",2021,11,2,"iNaturalist research-grade observations","3407996136",NA
+35.092433,-106.620214,NA,"Pieridae","Nathalis iole",2021,11,1,"iNaturalist research-grade observations","3408159968",NA
+35.119697,-106.6572,NA,"Pieridae","Nathalis iole",2021,11,6,"iNaturalist research-grade observations","3415391009","Adult"
+35.080993,-106.671223,NA,"Pieridae","Nathalis iole",2021,11,12,"iNaturalist research-grade observations","3415451268",NA
+35.129275,-106.685366,NA,"Pieridae","Nathalis iole",2021,11,7,"iNaturalist research-grade observations","3415524350",NA
+35.11964,-106.657162,NA,"Pieridae","Nathalis iole",2021,11,9,"iNaturalist research-grade observations","3415774494",NA
+35.130911,-106.684741,NA,"Pieridae","Nathalis iole",2021,11,27,"iNaturalist research-grade observations","3455781081",NA
+35.119659,-106.657241,NA,"Pieridae","Pieris rapae",2021,12,3,"iNaturalist research-grade observations","3457118569","Adult"
+35.077362,-106.550978,NA,"Pieridae","Pontia protodice",2020,3,28,"iNaturalist research-grade observations","2603395611",NA
+35.118188,-106.65888,NA,"Pieridae","Pontia protodice",2020,4,7,"iNaturalist research-grade observations","2597769844",NA
+35.17064,-106.773205,NA,"Pieridae","Pontia protodice",2020,4,25,"iNaturalist research-grade observations","2610982060",NA
+35.145858,-106.684279,NA,"Pieridae","Pontia protodice",2020,4,25,"iNaturalist research-grade observations","2619921696",NA
+35.170417,-106.498161,NA,"Pieridae","Pontia protodice",2020,4,26,"iNaturalist research-grade observations","2626352889",NA
+35.117895,-106.654322,NA,"Pieridae","Pontia protodice",2020,5,5,"iNaturalist research-grade observations","2619923688",NA
+35.085601,-106.614399,NA,"Pieridae","Pieris rapae",2020,5,6,"iNaturalist research-grade observations","2620000660",NA
+35.127341,-106.600669,NA,"Pieridae","Pontia protodice",2020,5,13,"iNaturalist research-grade observations","2633986922","Adult"
+35.180036,-106.685044,NA,"Pieridae","Pontia protodice",2020,5,13,"iNaturalist research-grade observations","2634476671","Adult"
+35.145173,-106.727464,NA,"Pieridae","Pontia protodice",2020,5,13,"iNaturalist research-grade observations","2634493573","Adult"
+35.065378,-106.620914,NA,"Pieridae","Pieris rapae",2020,5,14,"iNaturalist research-grade observations","3455201701",NA
+35.129891,-106.714439,NA,"Pieridae","Pieris rapae",2020,5,14,"iNaturalist research-grade observations","3705466329",NA
+35.076725,-106.607528,NA,"Pieridae","Pieris rapae",2020,6,8,"iNaturalist research-grade observations","2641358250",NA
+35.178651,-106.680659,NA,"Pieridae","Pieris rapae",2020,6,3,"iNaturalist research-grade observations","2641371874","Adult"
+35.108746,-106.715689,NA,"Pieridae","Nathalis iole",2020,6,13,"iNaturalist research-grade observations","2803008426",NA
+35.076931,-106.644355,NA,"Pieridae","Pieris rapae",2020,6,19,"iNaturalist research-grade observations","2814127204",NA
+35.089603,-106.699854,1,"Pieridae",NA,2020,7,5,"eButterfly","3427459072",NA
+35.082388,-106.619426,NA,"Pieridae","Pieris rapae",2020,10,14,"iNaturalist research-grade observations","2898338198",NA
+35.100508,-106.671608,NA,"Pieridae","Pontia protodice",2019,4,27,"iNaturalist research-grade observations","2238877985",NA
+35.073272,-106.482788,NA,"Pieridae","Nathalis iole",2019,4,28,"iNaturalist research-grade observations","2238910636",NA
+35.191087,-106.658052,NA,"Pieridae","Pontia protodice",2019,4,14,"iNaturalist research-grade observations","2596090749",NA
+35.157958,-106.4835,NA,"Pieridae","Pontia protodice",2019,4,21,"iNaturalist research-grade observations","2596250864",NA
+35.098711,-106.478589,NA,"Pieridae","Pontia protodice",2019,4,26,"iNaturalist research-grade observations","2860125325",NA
+35.083992,-106.660706,NA,"Pieridae","Pontia protodice",2019,4,27,"iNaturalist research-grade observations","3031595433",NA
+35.098711,-106.478589,NA,"Pieridae","Nathalis iole",2019,4,26,"iNaturalist research-grade observations","3044765375","Adult"
+35.093694,-106.682276,NA,"Pieridae","Pontia protodice",2019,5,6,"iNaturalist research-grade observations","2242898287",NA
+35.131673,-106.712774,NA,"Pieridae","Pieris rapae",2019,5,5,"iNaturalist research-grade observations","2242902024",NA
+35.136186,-106.4803,NA,"Pieridae","Pontia protodice",2019,5,23,"iNaturalist research-grade observations","3499672400",NA
+35.072453,-106.628205,NA,"Pieridae","Pontia protodice",2019,5,29,"iNaturalist research-grade observations","3764501928",NA
+35.081956,-106.625062,NA,"Pieridae","Pontia protodice",2019,6,1,"iNaturalist research-grade observations","2251997819",NA
+35.149093,-106.489509,NA,"Pieridae","Pontia protodice",2019,6,24,"iNaturalist research-grade observations","2273281353","Adult"
+35.162388,-106.532394,NA,"Pieridae","Pontia protodice",2019,6,30,"iNaturalist research-grade observations","2294434202",NA
+35.162388,-106.532394,NA,"Pieridae","Pontia protodice",2019,6,30,"iNaturalist research-grade observations","2542897471",NA
+35.094175,-106.682001,NA,"Pieridae","Pontia protodice",2019,7,15,"iNaturalist research-grade observations","2294517015",NA
+35.100158,-106.634863,NA,"Pieridae","Pontia protodice",2019,7,29,"iNaturalist research-grade observations","2331870830",NA
+35.093485,-106.679283,NA,"Pieridae","Pontia protodice",2019,7,7,"iNaturalist research-grade observations","2465110598",NA
+35.093612,-106.681323,NA,"Pieridae","Colias eurytheme",2019,8,7,"iNaturalist research-grade observations","2397496247","Adult"
+35.125736,-106.732041,NA,"Pieridae","Nathalis iole",2019,10,26,"iNaturalist research-grade observations","2451745360",NA
+35.017785,-106.62913,1,"Pieridae","Pontia protodice",2018,5,27,"eButterfly","3427522299",NA
+35.093058,-106.682006,NA,"Pieridae","Pieris rapae",2018,6,20,"iNaturalist research-grade observations","1880534119",NA
+35.113423,-106.489948,NA,"Pieridae","Pieris rapae",2018,6,21,"iNaturalist research-grade observations","1913175469",NA
+35.09307,-106.680237,NA,"Pieridae","Pieris rapae",2018,7,1,"iNaturalist research-grade observations","2901723317",NA
+35.084386,-106.650422,NA,"Pieridae","Pieris rapae",2018,7,11,"iNaturalist research-grade observations","3090822985",NA
+35.119669,-106.657242,NA,"Pieridae","Pieris rapae",2018,11,9,"iNaturalist research-grade observations","1935631605",NA
+35.133861,-106.64092,NA,"Pieridae","Pieris rapae",2018,11,9,"iNaturalist research-grade observations","2422875162",NA
+35.080584,-106.671517,1,"Pieridae","Pontia protodice",2017,2,11,"eButterfly","3397438294",NA
+35.094497,-106.492125,NA,"Pieridae","Pontia sisymbrii",2017,3,13,"iNaturalist research-grade observations","1457619583",NA
+35.085334,-106.605553,NA,"Pieridae","Abaeis nicippe",2017,5,4,"iNaturalist research-grade observations","1562896838",NA
+35.1267,-106.719227,NA,"Pieridae","Pieris rapae",2017,6,20,"iNaturalist research-grade observations","1802709591",NA
+35.085334,-106.605553,7,"Pieridae","Pontia protodice",2017,8,13,"eButterfly","3397613714",NA
+35.085334,-106.605553,5000,"Pieridae","Colias philodice",2017,8,13,"eButterfly","3397615772",NA
+35.085334,-106.605553,6,"Pieridae","Colias eurytheme",2017,8,13,"eButterfly","3397647717",NA
+35.161283,-106.715333,NA,"Pieridae","Pontia protodice",2017,9,28,"iNaturalist research-grade observations","1802738285",NA
+35.13099,-106.685151,NA,"Pieridae","Colias eurytheme",2017,9,28,"iNaturalist research-grade observations","1802738455",NA
+35.166267,-106.67244,NA,"Pieridae","Pontia protodice",2016,6,12,"iNaturalist research-grade observations","1802718750",NA
+35.093301,-106.679551,NA,"Pieridae","Abaeis nicippe",2016,7,2,"iNaturalist research-grade observations","1572385117",NA
+35.158756,-106.696915,NA,"Pieridae","Abaeis nicippe",2016,7,3,"iNaturalist research-grade observations","1802718767",NA
+35.119535,-106.657349,NA,"Pieridae","Pieris rapae",2016,10,12,"iNaturalist research-grade observations","2429186630",NA
+35.077015,-106.629554,NA,"Pieridae","Pieris rapae",2015,4,30,"iNaturalist research-grade observations","1143519903",NA
+35.09784,-106.66624,NA,"Pieridae","Pieris rapae",2015,6,19,"iNaturalist research-grade observations","1880661254",NA
+35.129258,-106.682841,NA,"Pieridae","Abaeis nicippe",2015,7,4,"iNaturalist research-grade observations","1453256228",NA
+35.09115,-106.744097,NA,"Pieridae","Pontia protodice",2015,7,3,"iNaturalist research-grade observations","1703210794",NA
+35.09115,-106.744097,NA,"Pieridae","Abaeis nicippe",2015,7,3,"iNaturalist research-grade observations","1703210802",NA
+35.095139,-106.60626,NA,"Pieridae","Pieris rapae",2014,5,25,"iNaturalist research-grade observations","2898268008",NA
+35.074396,-106.61077,1,"Pieridae","Pieris rapae",2014,6,12,"eButterfly","3397567964",NA
+35.084386,-106.650422,NA,"Pieridae","Pieris rapae",2014,7,18,"iNaturalist research-grade observations","3090834052",NA
+35.074396,-106.61077,1,"Pieridae","Pieris rapae",2014,7,5,"eButterfly","3397539232",NA
+35.130017,-106.684155,1,"Pieridae","Zerene cesonia",2014,8,23,"eButterfly","3397595393",NA
+35.09895,-106.479642,3,"Pieridae","Pontia protodice",2013,8,24,"eButterfly","3397430376",NA
+35.09895,-106.479642,1,"Pieridae","Abaeis nicippe",2013,8,24,"eButterfly","3397431400",NA
+35.08083,-106.671839,5,"Pieridae","Colias philodice",2011,9,29,"eButterfly","3397359734",NA
+35.143459,-106.657999,1,"Pieridae","Pontia protodice",2011,10,14,"eButterfly","3397523742",NA
+35.143459,-106.657999,2,"Pieridae","Pieris rapae",2011,10,14,"eButterfly","3397526739",NA
+35.143459,-106.657999,50,"Pieridae","Colias philodice",2011,10,14,"eButterfly","3397527748",NA
+35.143459,-106.657999,2,"Pieridae","Colias eurytheme",2011,10,14,"eButterfly","3397541740",NA
+35.130204,-106.683043,NA,"Pieridae","Pieris rapae",2010,7,2,"iNaturalist research-grade observations","1500311926",NA
+35.094749,-106.684008,NA,"Pieridae","Pontia protodice",2010,7,3,"iNaturalist research-grade observations","2013013358",NA
+35.129627,-106.684188,NA,"Pieridae","Pieris rapae",2009,5,25,"iNaturalist research-grade observations","3355203072",NA
+35.130017,-106.684155,1,"Pieridae","Pontia protodice",2005,10,28,"eButterfly","3397595972",NA
+35.130017,-106.684155,1,"Pieridae","Colias eurytheme",2005,10,28,"eButterfly","3397626972",NA
