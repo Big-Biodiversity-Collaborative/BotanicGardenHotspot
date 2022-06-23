@@ -13,7 +13,7 @@ source(file = "functions/query_gbif.R")
 gardens <- read.csv(file = "data/gardens.csv")
 
 # Indicate whether or not to overwrite data files that already exist
-overwrite <- TRUE
+overwrite <- FALSE
 
 # Download data for each garden, then for each city
 
