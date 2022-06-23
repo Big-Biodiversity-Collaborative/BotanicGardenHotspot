@@ -7,6 +7,8 @@
 require(dplyr)   # data wrangling
 require(tidyr)   # moar data wrangling
 require(ggplot2) # data viz
+require(osmdata) # city bounding boxes
+require(sf)      # sampling within cities
 
 # Load garden data
 gardens <- read.csv(file = "data/gardens.csv")
@@ -15,7 +17,7 @@ nreps <- 100
 sample_size <- 100 #TODO: Why 100? 
 
 # For proof of concept, just do Tohono chul
-gardens <- gardens[1, ]
+# gardens <- gardens[1, ]
 
 perm_tests <- list()
 for (garden_i in 1:nrow(gardens)) {
@@ -41,7 +43,24 @@ for (garden_i in 1:nrow(gardens)) {
     
     # Read in data
     city_obs <- read.csv(file = city_file)
+
+    # Grab city bounding box, so we can pull out rectangles of similar size to 
+    # the garden
+    city_poly <- osmdata::getbb(place_name = city_state, format_out = "polygon")
+    # Convert the polygon to a simple feature for random sampling of points
+    city_sf <- sf::st_polygon(x = list(city_poly), dim = "XY")
+    city_sample_points <- sf::st_sample(x = city_sf,
+                                        size = nreps)
     
+    # Garden dimensions, we use these to dictate bounding box for sampling 
+    # within the city
+    lat_dim <- gardens$max_lat[garden_i] - gardens$min_lat[garden_i]
+    lon_dim <- gardens$max_lon[garden_i] - gardens$min_lon[garden_i]
+    
+    city_rects <- data.frame(min_lat = city_sample_points - lat_dim/2,
+                             max_lat = city_sample_points + lat_dim/2,
+                             min_lon = city_sample_points - lon_dim/2,
+                             max_lon = city_sample_points + lon_dim/2)
     # Do replicates  
     results <- data.frame(replicate = 1:nreps,
                           garden = NA,
