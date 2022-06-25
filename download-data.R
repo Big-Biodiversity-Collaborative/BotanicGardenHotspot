@@ -72,13 +72,11 @@ for (city_state in city_state_string) {
                     x = city_name)
   city_file <- paste0("data/gbif/", city_name, "-obs.csv")
   if (overwrite | !file.exists(city_file)) {
-    
-    
     message("***  Downloading data for ", city_state)
     city_poly <- osmdata::getbb(place_name = city_state, format_out = "polygon")
     # Most queries return a list, and we just want the first matrix element; when 
     # a single polygon is returned, it is already a matrix
-    if (class(city_poly) == "list") {
+    if (class(city_poly)[1] == "list") {
       city_poly <- city_poly[[1]]
     }
     # First find the maximum containing rectangle coordinates and use those for 
