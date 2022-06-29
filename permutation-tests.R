@@ -188,6 +188,9 @@ sample_values <- sample_values %>%
                        x = garden)) %>%
   mutate(garden = gsub(pattern = "Botanical Garden",
                        replacement = "\nBotanical Garden",
+                       x = garden)) %>%
+  mutate(garden = gsub(pattern = "Desert Garden",
+                       replacement = "\nDesert Garden",
                        x = garden))
 
 # Pull out values for each garden; similar mutations in garden name for plots
@@ -210,6 +213,9 @@ garden_values <- garden_values %>%
                        x = garden)) %>%
   mutate(garden = gsub(pattern = "Botanical Garden",
                        replacement = "\nBotanical Garden",
+                       x = garden)) %>%
+  mutate(garden = gsub(pattern = "Desert Garden",
+                       replacement = "\nDesert Garden",
                        x = garden))
 
 richness_plot <- ggplot(data = sample_values, mapping = aes(x = garden, 
