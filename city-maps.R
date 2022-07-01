@@ -10,8 +10,7 @@ require(ggplot2) # data viz
 require(ggpubr)  # multi-panel plot
 
 # Get a polygon for each city
-# NOPE: Add filled rectangle for each garden
-# New plan: Add star for garden location and plus symbols for records from GBIF
+# Add star for garden location and plus symbols for records from GBIF
 # Label plots accordingly
 
 gardens <- read.csv(file = "data/gardens.csv")

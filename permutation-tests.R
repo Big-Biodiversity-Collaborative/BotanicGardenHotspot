@@ -3,8 +3,6 @@
 # jcoliver@arizona.edu
 # 2022-06-17
 
-# TODO: Need to de-duplicate based on lat/lon/date/species
-
 # Libraries
 require(dplyr)   # data wrangling
 require(tidyr)   # moar data wrangling
@@ -13,6 +11,12 @@ require(stringr) # text formatting for plots
 
 # Load garden data
 gardens <- read.csv(file = "data/gardens.csv")
+
+# We only want observations that occurred in or after 2000 
+min_year <- 2000
+
+# Drop singletons?
+drop_single <- FALSE
 
 nreps <- 1000
 min_obs <- 40 # TODO: Why 40? 
@@ -25,8 +29,26 @@ for (garden_i in 1:nrow(gardens)) {
                                   x = gardens$name[garden_i]))
   garden_file <- paste0("data/gbif/", garden_name, "-obs.csv")
   garden_obs <- read.csv(file = garden_file)
-  garden_obs <- garden_obs[!is.na(garden_obs$species), ]
+  # Keep only those records with species name and year >= min_year
+  garden_obs <- garden_obs %>%
+    filter(!is.na(species)) %>%
+    filter(year >= min_year)
+
+  # Drop duplicates
+  garden_obs <- garden_obs %>%
+    distinct(decimalLongitude, decimalLatitude, family, 
+             species, year, month, day, .keep_all = TRUE)
   
+  # Drop singletons, if appropriate
+  if (drop_single) {
+    garden_multiples <- garden_obs %>%
+      group_by(species) %>%
+      summarize(num_obs = n()) %>%
+      filter(num_obs > 1)
+    garden_obs <- garden_obs %>%
+      filter(species %in% garden_multiples$species)
+  }
+    
   # Only proceed if number of garden observations is large enough
   if (nrow(garden_obs) >= min_obs) {
     # RICHNESS for this garden
@@ -57,7 +79,26 @@ for (garden_i in 1:nrow(gardens)) {
     
     # Read in data
     city_obs <- read.csv(file = city_file)
-    city_obs <- city_obs[!is.na(city_obs$species), ]
+
+    # Keep only those records with species name and year >= min_year
+    city_obs <- city_obs %>%
+      filter(!is.na(species)) %>%
+      filter(year >= min_year)
+
+    # Drop duplicates
+    city_obs <- city_obs %>%
+      distinct(decimalLongitude, decimalLatitude, family, 
+               species, year, month, day, .keep_all = TRUE)
+    
+    # Drop singletons, if appropriate
+    if (drop_single) {
+      city_multiples <- city_obs %>%
+        group_by(species) %>%
+        summarize(num_obs = n()) %>%
+        filter(num_obs > 1)
+      city_obs <- city_obs %>%
+        filter(species %in% city_multiples$species)
+    }
     
     # Randomly sampling points from the city will end up in lots and lots of 
     # zeros; make sampling a little smarter - pick random observations from 
@@ -75,8 +116,7 @@ for (garden_i in 1:nrow(gardens)) {
     # otherwise highly sampled areas will be over-represented in our sampling
     city_sample_points <- city_obs %>%
       distinct(decimalLongitude, decimalLatitude) %>%
-      slice_sample(n = nreps, replace = TRUE) %>%
-      select(decimalLongitude, decimalLatitude)
+      slice_sample(n = nreps, replace = TRUE)
     
     # Grab city bounding box, so we can pull out rectangles of similar size to 
     # the garden
@@ -150,9 +190,7 @@ for (garden_i in 1:nrow(gardens)) {
     # we immediately pass the garden richness)
     richness_quantile <- ecdf(x = city_samples$richness)(garden_richness)
     diversity_quantile <- ecdf(x = city_samples$diversity)(garden_diversity)
-    # garden_prob <- 1 - garden_quantile
-    # upper_95 <- quantile(x = city_samples$richness, probs = 0.95)[1]
-    
+
     perm_tests[[garden_name]] <- list(sample_values = city_samples,
                                       garden_richness = garden_richness,
                                       garden_diversity = garden_diversity,
@@ -167,7 +205,7 @@ for (garden_i in 1:nrow(gardens)) {
   }
 }
 
-# Extract values from the list of permutations , putting them in one data frame 
+# Extract values from the list of permutations, putting them in one data frame 
 # for ease of plotting. The garden column gets lots of mutates to make plot 
 # a little nicer
 sample_values_list <- lapply(X = perm_tests, FUN = "[[", "sample_values")
@@ -265,6 +303,7 @@ ggsave(filename = "output/Diversity-plot.png",
 # And some final cleaning up before writing values to file
 garden_values %>%
   select(-garden_print) %>%
+  mutate(diversity = round(diversity, digits = 2)) %>%
   rename(garden = garden_name) %>%
   mutate(garden = gsub(pattern = "_",
                              replacement = " ",
