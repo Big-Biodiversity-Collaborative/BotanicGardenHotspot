@@ -148,7 +148,7 @@ for (garden_i in 1:nrow(gardens)) {
                                max_lat = city_sample_points$decimalLatitude + lat_dim/2,
                                richness = NA,
                                diversity = NA)
-    
+
     message(paste0("Running ", nreps, " reps for ", gardens$name[garden_i]))
     for (rep_i in 1:nreps) {
       # Use the rectangle to select points from the city_obs that fall within 
@@ -197,8 +197,68 @@ for (garden_i in 1:nrow(gardens)) {
                                       # garden_prob = garden_prob,
                                       # upper_95 = upper_95,
                                       richness_quantile = richness_quantile,
-                                      diversity_quantile = diversity_quantile
-    )
+                                      diversity_quantile = diversity_quantile)
+    
+    # Permutation t-tests, where we bootstrap *both* garden and city 
+    # observations, creating a random sample of 20% of the garden observations 
+    # to test if city richness and diversity are higher than garden richness 
+    # and diversity
+    # Restricting to only those gardens with >= 100 observations.
+    if (nrow(garden_obs) >= 100) {
+      message(paste0("Running permutation t-test for ", gardens$name[garden_i]))
+      sample_size <- ceiling(x = 0.2 * nrow(garden_obs))
+      
+      richness_mat <- matrix(data = NA, nrow = nreps, ncol = 2)
+      diversity_mat <- matrix(data = NA, nrow = nreps, ncol = 2)
+      for (rep_i in 1:nreps) {      
+        garden_sample <- garden_obs %>%
+          slice_sample(n = sample_size)
+        
+        city_sample <- city_obs %>%
+          slice_sample(n = sample_size)
+        
+        # Garden richness in column 1, city richness in column 2
+        richness_mat[rep_i, 1] <- length(unique(garden_sample$species))
+        richness_mat[rep_i, 2] <- length(unique(city_sample$species))
+        
+        # Garden diversity in column 1, city diversity in column 2
+        diversity_mat[rep_i, 1] <- garden_sample %>%
+          group_by(species) %>%
+          summarize(abun = n()) %>%
+          ungroup() %>%
+          mutate(total_abun = sum(abun)) %>%
+          mutate(p = abun/total_abun) %>%
+          mutate(plogp = -1 * (p * log(p))) %>%
+          select(plogp) %>%
+          sum()
+        
+        diversity_mat[rep_i, 2] <- city_sample %>%
+          group_by(species) %>%
+          summarize(abun = n()) %>%
+          ungroup() %>%
+          mutate(total_abun = sum(abun)) %>%
+          mutate(p = abun/total_abun) %>%
+          mutate(plogp = -1 * (p * log(p))) %>%
+          select(plogp) %>%
+          sum()
+      }
+      # Run t-test on resulting matrix; is garden richness significantly lower 
+      # than city?
+      richness_t <- t.test(x = richness_mat[, 1], 
+                           y = richness_mat[, 2],
+                           alternative = "less")
+      diversity_t <- t.test(x = diversity_mat[, 1],
+                            y = diversity_mat[, 2],
+                            alternative = "less")
+      
+      perm_tests[[garden_name]][["richness_t"]] <- richness_t
+      perm_tests[[garden_name]][["diversity_t"]] <- diversity_t
+    } else {
+      message(paste0("Skipping permutation t-test for ", gardens$name[garden_i],
+                     ", too few observations"))
+    }
+    
+    
   } else {
     message("Too few observations in ", gardens$name[garden_i], 
             " no permutation tests performed.")
@@ -208,6 +268,15 @@ for (garden_i in 1:nrow(gardens)) {
 # Extract values from the list of permutations, putting them in one data frame 
 # for ease of plotting. The garden column gets lots of mutates to make plot 
 # a little nicer
+
+perm_test_file <- "output/perm-test-results.rds"
+saveRDS(object = perm_tests,
+        file = perm_test_file)
+if (file.exists(perm_test_file)) {
+  perm_tests <- readRDS(file = perm_test_file)
+} else {
+  message("No perm test results file on disk")
+}
 sample_values_list <- lapply(X = perm_tests, FUN = "[[", "sample_values")
 sample_values <- dplyr::bind_rows(sample_values_list, .id = "garden")
 sample_values <- sample_values %>%
@@ -315,3 +384,6 @@ garden_values %>%
   write.csv(file = "output/perm-tests.csv",
             row.names = FALSE)
   
+# Pull out values for those permutation t-tests
+richness_t_list <- lapply(X = perm_tests, FUN = "[[", "richness_t")
+diversity_t_list <- lapply(X = perm_tests, FUN = "[[", "diversity_t")

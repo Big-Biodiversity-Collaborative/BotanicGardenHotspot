@@ -1,7 +1,9 @@
-# Proof of concept of species richness test
+# Proof of concept of species diversity test
 # Jeff Oliver
 # jcoliver@arizona.edu
 # 2022-06-17
+
+# DEPRECATED
 
 # Libraries
 require(dplyr)   # data wrangling
