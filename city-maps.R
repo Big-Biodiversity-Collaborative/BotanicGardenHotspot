@@ -20,7 +20,7 @@ cities <- unique(gardens$city)
 city_plots <- list()
 
 for (city_i in 1:length(cities)) {
-  # city_i <- 2
+  # city_i <- 1
   
   # Need city and state abbreviation. Cludgy
   city_name <- cities[city_i]
@@ -96,50 +96,21 @@ for (city_i in 1:length(cities)) {
     city_plot <- city_plot +
       geom_point(data = garden_df,
                  mapping = aes(x = lon, y = lat),
-                 shape = 17, 
-                 color = "#2ca25f",
-                 size = 5)
+                 shape = 24, 
+                 # color = "#2ca25f",
+                 fill = "#FFFFFF",
+                 color = "#000000",
+                 size = 4,
+                 stroke = 1)
   }
   city_plots[[city_name]] <- city_plot
 }
 
-ggpubr::ggarrange(city_plots[[1]], 
-                  city_plots[[2]], 
-                  city_plots[[3]], 
-                  city_plots[[4]],
-                  city_plots[[5]],
-                  city_plots[[7]],
-                  ncol = 3, nrow = 2)
-
-#### OLD BELOW HERE
-# Convert the polygon to a simple feature for ease of filtering points
-city_sf <- sf::st_polygon(x = list(city_poly), dim = "XY")
-
-# Get dimensions of garden(s), to set plot boundaries
-city_gardens <- gardens[gardens$city == city_name, ]
-
-lon_min <- min(c(city_poly[, 1], city_gardens$lon_min))
-lon_max <- max(c(city_poly[, 1], city_gardens$lon_max))
-lat_min <- min(c(city_poly[, 2], city_gardens$lat_min))
-lat_max <- max(c(city_poly[, 2], city_gardens$lat_max))
-
-plot(city_sf, xlim = c(lon_min, lon_max), ylim = c(lat_min, lat_max))
-
-# add each garden to the plot
-wgs84 <- "+proj=longlat +datum=WGS84 +no_defs +ellps=WGS84 +towgs84=0,0,0"
-for (garden_i in 1:nrow(city_gardens)) {
-  # topleft, topright, bottomright, bottomleft
-  garden_mat <- matrix(data = c(city_gardens$lon_min[garden_i], city_gardens$lat_max[garden_i],
-                                city_gardens$lon_max[garden_i], city_gardens$lat_max[garden_i],
-                                city_gardens$lon_max[garden_i], city_gardens$lat_min[garden_i],
-                                city_gardens$lon_min[garden_i], city_gardens$lat_min[garden_i],
-                                city_gardens$lon_min[garden_i], city_gardens$lat_max[garden_i]),
-                       ncol = 2, byrow = TRUE)
-  garden_sf <- sf::st_polygon(x = list(garden_mat), dim = "XY")
-  plot(garden_sf, add = TRUE, 
-       bg = "#2ca25f", 
-       col =  "#2ca25f",
-       lwd = 0.1)
-}
-
-
+multi_city <- ggpubr::ggarrange(city_plots[[1]], 
+                                city_plots[[2]], 
+                                city_plots[[3]], 
+                                city_plots[[4]],
+                                city_plots[[5]],
+                                ncol = 3, nrow = 2)
+ggsave(filename = "output/City-plot.png",
+       plot = multi_city)
