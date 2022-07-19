@@ -5,7 +5,6 @@
 
 require(dplyr)   # data wrangling
 require(osmdata) # city boundaries
-# require(sf)      # drawing garden polygons
 require(ggplot2) # data viz
 require(ggpubr)  # multi-panel plot
 
@@ -76,15 +75,16 @@ for (city_i in 1:length(cities)) {
     xlim(c(lon_min, lon_max)) + 
     ylim(c(lat_min, lat_max)) + 
     labs(title = city_state) + 
-    ylab("Latitude") +
-    xlab("Longitude") + 
-    # theme_minimal()
-    theme_void()
+    theme_void() +
+    theme(plot.title = element_text(hjust = 0.5, vjust = 1),
+          title = element_text(size = 6))
   # Add observations to plot
   city_plot <- city_plot +
     geom_point(data = city_obs, mapping = aes(x = decimalLongitude,
                                               y = decimalLatitude),
-               shape = 3)
+               shape = 3,
+               size = 0.8,
+               color = "#7fc97f")
   
   # Add a triangle for each garden
   for (garden_i in 1:nrow(city_gardens)) {
@@ -97,11 +97,10 @@ for (city_i in 1:length(cities)) {
       geom_point(data = garden_df,
                  mapping = aes(x = lon, y = lat),
                  shape = 24, 
-                 # color = "#2ca25f",
-                 fill = "#FFFFFF",
+                 fill = "#fdc086", # #FFFFFF
                  color = "#000000",
-                 size = 4,
-                 stroke = 1)
+                 size = 3,
+                 stroke = 0.6)
   }
   city_plots[[city_name]] <- city_plot
 }
@@ -112,5 +111,9 @@ multi_city <- ggpubr::ggarrange(city_plots[[1]],
                                 city_plots[[4]],
                                 city_plots[[5]],
                                 ncol = 3, nrow = 2)
-ggsave(filename = "output/City-plot.png",
-       plot = multi_city)
+multi_city
+ggsave(filename = "output/City-plot.pdf",
+       plot = multi_city,
+       width = 5,
+       height = 3.33,
+       units = "in")

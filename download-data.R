@@ -9,6 +9,12 @@ require(osmdata) # city boundaries
 require(sf)      # point filtering for cities
 source(file = "functions/query_gbif.R")
 
+# TODO: Some "cities" should actually be multiple bounding boxes, for example
+# Palm Desert = Palm Desert + Indian Wells
+# Phoenix = Phoenix + Tempe
+# El Paso = El Paso + Ciudad Juárez
+# TODO: If this is adopted, be sure to update city-stats, too.
+
 # Load garden data
 gardens <- read.csv(file = "data/gardens.csv")
 
