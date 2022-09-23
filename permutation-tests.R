@@ -8,6 +8,9 @@ require(dplyr)   # data wrangling
 require(tidyr)   # moar data wrangling
 require(ggplot2) # data viz
 require(stringr) # text formatting for plots
+require(extrafont) # So we can use Arial in figures
+# This installation of Rttf2pt1 is required to avoid No FontName issue
+# remotes::install_version("Rttf2pt1", version = "1.3.8")
 
 # Load garden data
 gardens <- read.csv(file = "data/gardens.csv")
@@ -363,9 +366,15 @@ richness_plot <- ggplot(data = sample_values, mapping = aes(x = garden_print,
   theme_bw() +
   theme(legend.position = "none",
         axis.text = element_text(size = 6), # Font sizes for print
-        axis.title.y = element_text(size = 8))
+        axis.title.y = element_text(size = 8),
+        text = element_text(family = "ArialMT"))
 richness_plot
 ggsave(filename = "output/Richness-plot.pdf",
+       plot = richness_plot,
+       width = 5,
+       height = 3,
+       units = "in")
+ggsave(filename = "output/Richness-plot.png",
        plot = richness_plot,
        width = 5,
        height = 3,
@@ -391,9 +400,15 @@ diversity_plot <- ggplot(data = sample_values, mapping = aes(x = garden_print,
   theme_bw() +
   theme(legend.position = "none",
         axis.text = element_text(size = 6), # Font sizes for print
-        axis.title.y = element_text(size = 8))
+        axis.title.y = element_text(size = 8),
+        text = element_text(family = "ArialMT"))
 diversity_plot
 ggsave(filename = "output/Diversity-plot.pdf",
+       plot = diversity_plot,
+       width = 5,
+       height = 3,
+       units = "in")
+ggsave(filename = "output/Diversity-plot.png",
        plot = diversity_plot,
        width = 5,
        height = 3,

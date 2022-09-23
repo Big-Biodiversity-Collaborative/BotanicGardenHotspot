@@ -7,6 +7,11 @@ require(dplyr)   # data wrangling
 require(osmdata) # city boundaries
 require(ggplot2) # data viz
 require(ggpubr)  # multi-panel plot
+require(extrafont) # So we can use Arial in figures
+# This installation of Rttf2pt1 is required to avoid No FontName issue
+# remotes::install_version("Rttf2pt1", version = "1.3.8")
+# extrafont::font_import()
+# extrafont::fonttable()
 
 # Get a polygon for each city
 # Add star for garden location and plus symbols for records from GBIF
@@ -77,7 +82,9 @@ for (city_i in 1:length(cities)) {
     labs(title = city_state) + 
     theme_void() +
     theme(plot.title = element_text(hjust = 0.5, vjust = 1),
-          title = element_text(size = 6))
+          title = element_text(size = 6),
+          text = element_text(family = "ArialMT"))
+
   # Add observations to plot
   city_plot <- city_plot +
     geom_point(data = city_obs, mapping = aes(x = decimalLongitude,
@@ -113,6 +120,11 @@ multi_city <- ggpubr::ggarrange(city_plots[[1]],
                                 ncol = 3, nrow = 2)
 multi_city
 ggsave(filename = "output/City-plot.pdf",
+       plot = multi_city,
+       width = 5,
+       height = 3.33,
+       units = "in")
+ggsave(filename = "output/City-plot.png",
        plot = multi_city,
        width = 5,
        height = 3.33,
