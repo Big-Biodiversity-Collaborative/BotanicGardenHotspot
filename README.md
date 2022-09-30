@@ -2,10 +2,8 @@
 
 [![DOI](https://zenodo.org/badge/504339352.svg)](https://zenodo.org/badge/latestdoi/504339352)
 
-Investigation of botanical gardens as hotspots for urban biodiversity
-
-Draft manuscript is on [Google Drive]( https://docs.google.com/document/d/16KyHO89o7zbOIxLlxg6Cm4S_jw1adECCRSkMj3ykA7g/edit?usp=sharing) 
-(permission required).
+Code and accompanying data for Prudic et al. 2022 Botanical Gardens Are Local 
+Hotspots for Urban Butterflies in Arid Environments doi: [10.3390/insects13100865](https://doi.org/10.3390/insects13100865).
 
 ## Summary
 
@@ -22,6 +20,7 @@ The data downloads, analyses, and visualization are written in R and use the
 following additional R packages:
 
 + dplyr: general data wrangling
++ extrafont: use of Arial font in plots
 + ggplot2: data visualization
 + ggpubr: multi-panel plots
 + osmdata: querying [OpenStreetMaps](https://www.openstreetmap.org) for city 
@@ -39,7 +38,6 @@ top-level folder. Additional folders and contents are:
 + data: information about gardens (coordinate bounding boxes, cities) and 
 rainfall for corresponding cities
     + gbif: community science records for gardens and cities downloaded from 
-    GBIF
-+ functions: utility functions; at last check just one function to help with 
-pageination during GBIF downloads
-+ output: plots and output tables; most files are not under version control.
+    GBIF; dataset record [10.15468/dd.uqf3vw](https://doi.org/10.15468/dd.uqf3vw)
++ functions: utility function to help with pageination during GBIF downloads
++ output: plots and output tables; most files are not under version control
