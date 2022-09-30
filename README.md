@@ -2,8 +2,8 @@
 
 [![DOI](https://zenodo.org/badge/504339352.svg)](https://zenodo.org/badge/latestdoi/504339352)
 
-Code and accompanying data for Prudic et al. 2022 Botanical Gardens Are Local 
-Hotspots for Urban Butterflies in Arid Environments doi: [10.3390/insects13100865](https://doi.org/10.3390/insects13100865).
+Code and accompanying data for Prudic et al. 2022, Botanical Gardens Are Local 
+Hotspots for Urban Butterflies in Arid Environments, doi: [10.3390/insects13100865](https://doi.org/10.3390/insects13100865).
 
 ## Summary
 
